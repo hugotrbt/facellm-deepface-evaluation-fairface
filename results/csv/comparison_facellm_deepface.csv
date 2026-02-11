@@ -1,0 +1,11 @@
+image_id,age_facellm,age_deepface,age_abs_diff,gender_facellm,gender_deepface,gender_match,race_facellm,race_deepface,race_match,expression_facellm,expression_deepface,expression_match
+1,5-7 years,29,23,male,Man,0,Asian,asian,0,neutral,neutral,1
+10,10-12 years,37,26,male,Man,0,Asian,white,0,happy,angry,0
+2,30-40,28,7,female,Man,0,Asian,asian,0,neutral,neutral,1
+3,30-40,26,9,male,Man,0,white,white,1,neutral,fear,0
+4,20-30,32,7,female,Woman,0,Hispanic,asian,0,happy,happy,1
+5,30-40,33,2,male,Man,0,Asian,asian,0,happy,happy,1
+6,30-40,28,7,male,Man,0,Middle Eastern,latino hispanic,0,Neutral,sad,0
+7,20-25,27,5,male,Man,0,possibly African American,black,0,neutral,neutral,1
+8,2-4 years,26,23,male,Man,0,Asian,asian,0,neutral,neutral,1
+9,20-30,34,9,male,Man,0,Asian,asian,0,happy,happy,1

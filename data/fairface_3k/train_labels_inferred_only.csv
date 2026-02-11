@@ -1,0 +1,2999 @@
+image_id,age,gender,race,service_test
+1,50-59,Male,East Asian,True
+10,30-39,Male,Middle Eastern,False
+11,50-59,Male,East Asian,True
+12,20-29,Male,East Asian,False
+100,20-29,Female,East Asian,False
+101,30-39,Male,Indian,False
+102,30-39,Male,White,False
+103,40-49,Male,Indian,True
+104,30-39,Male,Indian,False
+105,50-59,Male,East Asian,False
+106,40-49,Male,Black,False
+107,30-39,Female,White,False
+108,more than 70,Female,Indian,False
+109,20-29,Female,Middle Eastern,True
+110,30-39,Male,White,False
+111,40-49,Female,Indian,False
+112,40-49,Female,Latino_Hispanic,False
+113,30-39,Male,Middle Eastern,True
+114,30-39,Female,White,False
+115,50-59,Male,Black,True
+116,20-29,Female,Latino_Hispanic,False
+117,30-39,Male,White,False
+118,30-39,Male,White,False
+119,40-49,Male,Indian,True
+120,60-69,Male,Middle Eastern,False
+121,20-29,Female,White,False
+122,20-29,Female,East Asian,False
+123,30-39,Female,Black,False
+124,0-2,Male,Indian,False
+125,40-49,Male,White,False
+126,30-39,Female,East Asian,False
+1000,30-39,Male,White,False
+1001,40-49,Male,Black,False
+1002,30-39,Female,Black,False
+1003,30-39,Female,Latino_Hispanic,False
+1004,40-49,Male,Latino_Hispanic,False
+1005,50-59,Male,East Asian,False
+1006,40-49,Female,Latino_Hispanic,False
+1007,30-39,Female,Black,False
+1008,20-29,Female,Indian,False
+1009,0-2,Female,East Asian,False
+1010,50-59,Male,Indian,False
+1011,40-49,Female,East Asian,True
+1012,30-39,Female,Black,True
+1013,20-29,Male,East Asian,False
+1014,50-59,Male,White,False
+1015,60-69,Female,East Asian,True
+1016,40-49,Male,Middle Eastern,True
+1017,60-69,Female,White,False
+1018,30-39,Male,Latino_Hispanic,False
+1019,30-39,Male,Latino_Hispanic,True
+1020,10-19,Female,Black,False
+1021,20-29,Female,East Asian,False
+1022,10-19,Male,Indian,True
+1023,30-39,Female,Latino_Hispanic,True
+1024,30-39,Male,Middle Eastern,False
+1025,30-39,Male,Black,False
+1026,20-29,Female,East Asian,False
+1027,3-9,Male,Southeast Asian,True
+1028,50-59,Male,East Asian,False
+1029,20-29,Male,Black,True
+1030,20-29,Male,Southeast Asian,False
+1031,10-19,Male,Middle Eastern,True
+1032,50-59,Male,Latino_Hispanic,False
+1033,40-49,Male,White,True
+1034,10-19,Male,Indian,True
+1035,20-29,Male,Middle Eastern,False
+1036,20-29,Male,East Asian,True
+1037,10-19,Female,White,True
+1038,20-29,Male,Indian,False
+1039,30-39,Female,Southeast Asian,False
+1040,40-49,Male,Middle Eastern,False
+1041,30-39,Female,Middle Eastern,True
+1042,3-9,Male,Southeast Asian,True
+1043,50-59,Female,Latino_Hispanic,False
+1044,3-9,Female,Black,True
+1045,20-29,Male,Indian,True
+1046,30-39,Male,Indian,False
+1047,more than 70,Male,Indian,False
+1048,20-29,Male,Latino_Hispanic,True
+1049,20-29,Male,White,False
+1050,10-19,Female,Black,True
+1051,20-29,Female,White,True
+1052,0-2,Female,Southeast Asian,True
+1053,3-9,Female,Latino_Hispanic,False
+1054,20-29,Female,Indian,True
+1055,20-29,Female,Indian,True
+1056,3-9,Female,Latino_Hispanic,False
+1057,20-29,Male,Southeast Asian,True
+1058,20-29,Female,Indian,True
+1059,more than 70,Female,Black,False
+1060,30-39,Male,Latino_Hispanic,True
+1061,40-49,Male,East Asian,False
+1062,20-29,Female,White,False
+1063,20-29,Female,Latino_Hispanic,False
+1064,20-29,Male,East Asian,False
+1065,20-29,Female,Southeast Asian,False
+1066,20-29,Male,White,False
+1067,30-39,Female,Indian,True
+1068,50-59,Male,Black,True
+1069,20-29,Male,Southeast Asian,True
+1070,20-29,Female,White,True
+1071,50-59,Male,Black,True
+1072,3-9,Male,White,False
+1073,20-29,Female,Middle Eastern,True
+1074,20-29,Female,Indian,True
+1075,40-49,Male,Latino_Hispanic,False
+1076,20-29,Male,Indian,True
+1077,40-49,Male,White,False
+1078,3-9,Male,White,True
+1079,30-39,Female,Black,False
+1080,30-39,Female,White,False
+1081,40-49,Male,Black,False
+1082,20-29,Male,White,True
+1083,30-39,Female,Southeast Asian,False
+1084,3-9,Male,Black,True
+1085,10-19,Female,Black,False
+1086,30-39,Male,White,True
+1087,40-49,Male,Middle Eastern,True
+1088,3-9,Female,East Asian,True
+1089,20-29,Male,Latino_Hispanic,True
+1090,20-29,Female,Latino_Hispanic,True
+1091,10-19,Male,Latino_Hispanic,False
+1092,3-9,Female,Latino_Hispanic,False
+1093,10-19,Female,Indian,False
+1094,10-19,Female,Black,True
+1095,3-9,Female,Indian,False
+1096,20-29,Male,Indian,False
+1097,20-29,Male,White,False
+1098,10-19,Female,East Asian,False
+1099,3-9,Male,White,True
+1100,20-29,Female,White,False
+1101,20-29,Male,Latino_Hispanic,False
+1102,20-29,Female,Middle Eastern,True
+1103,3-9,Female,Indian,False
+1104,30-39,Male,White,False
+1105,30-39,Male,East Asian,True
+1106,30-39,Female,White,False
+1107,30-39,Female,White,True
+1108,20-29,Female,White,False
+1109,0-2,Female,White,False
+1110,40-49,Female,White,False
+1111,20-29,Female,Southeast Asian,False
+1112,30-39,Male,Latino_Hispanic,False
+1113,3-9,Male,Black,False
+1114,20-29,Female,Latino_Hispanic,False
+1115,30-39,Female,Latino_Hispanic,True
+1116,20-29,Male,White,True
+1117,0-2,Female,East Asian,True
+1118,50-59,Female,Black,True
+1119,3-9,Male,Latino_Hispanic,False
+1120,20-29,Male,White,False
+1121,20-29,Female,Southeast Asian,True
+1122,20-29,Female,White,False
+1123,30-39,Male,White,False
+1124,30-39,Female,White,False
+1125,10-19,Female,East Asian,True
+1126,30-39,Female,White,True
+1127,30-39,Female,East Asian,True
+1128,20-29,Female,Indian,True
+1129,20-29,Male,Black,False
+1130,20-29,Male,Southeast Asian,False
+1131,20-29,Female,White,True
+1132,0-2,Female,Black,False
+1133,30-39,Male,White,True
+1134,20-29,Female,White,True
+1135,20-29,Female,Latino_Hispanic,True
+1136,20-29,Male,White,True
+1137,60-69,Male,White,True
+1138,20-29,Female,Latino_Hispanic,True
+1139,40-49,Female,East Asian,True
+1140,30-39,Male,Middle Eastern,False
+1141,30-39,Female,East Asian,False
+1142,3-9,Male,Indian,True
+1143,60-69,Male,East Asian,False
+1144,0-2,Female,White,True
+1145,20-29,Female,Indian,False
+1146,3-9,Female,Southeast Asian,False
+1147,3-9,Male,Indian,False
+1148,40-49,Male,White,True
+1149,3-9,Male,Black,False
+1150,30-39,Male,Indian,False
+1151,3-9,Female,White,False
+1152,20-29,Male,Latino_Hispanic,False
+1153,50-59,Male,Black,False
+1154,20-29,Male,East Asian,False
+1155,20-29,Male,Middle Eastern,True
+1156,30-39,Female,Latino_Hispanic,False
+1157,30-39,Male,White,False
+1158,30-39,Male,East Asian,False
+1159,3-9,Female,Latino_Hispanic,False
+1160,50-59,Male,White,False
+1161,50-59,Male,White,False
+1162,40-49,Female,White,False
+1163,10-19,Male,Black,True
+1164,20-29,Male,Southeast Asian,True
+1165,50-59,Male,Black,False
+1166,30-39,Male,Black,True
+1167,20-29,Male,East Asian,False
+1168,10-19,Female,Indian,False
+1169,3-9,Female,Black,True
+1170,20-29,Female,White,False
+1171,60-69,Male,White,False
+1172,20-29,Female,Black,True
+1173,40-49,Male,White,False
+1174,30-39,Male,White,False
+1175,30-39,Male,East Asian,False
+1176,30-39,Female,Indian,True
+1177,0-2,Male,East Asian,False
+1178,20-29,Male,White,True
+1179,50-59,Male,Latino_Hispanic,False
+1180,10-19,Female,Southeast Asian,True
+1181,10-19,Male,Indian,True
+1182,30-39,Male,White,False
+1183,10-19,Female,Latino_Hispanic,False
+1184,3-9,Male,Latino_Hispanic,False
+1185,10-19,Female,Southeast Asian,True
+1186,10-19,Female,Southeast Asian,True
+1187,10-19,Male,Black,True
+1188,50-59,Female,Latino_Hispanic,False
+1189,30-39,Male,White,False
+1190,50-59,Male,Indian,True
+1191,10-19,Male,Southeast Asian,True
+1192,30-39,Male,Middle Eastern,False
+1193,3-9,Male,Indian,False
+1194,20-29,Male,Middle Eastern,True
+1195,60-69,Male,White,False
+1196,30-39,Male,White,True
+1197,3-9,Male,White,True
+1198,10-19,Female,Latino_Hispanic,False
+1199,30-39,Female,Black,False
+1200,0-2,Male,White,False
+1201,3-9,Male,Black,False
+1202,50-59,Female,Indian,False
+1203,40-49,Male,White,False
+1204,20-29,Male,Indian,True
+1205,20-29,Female,Southeast Asian,False
+1206,30-39,Female,East Asian,True
+1207,60-69,Male,Middle Eastern,False
+1208,20-29,Female,East Asian,False
+1209,0-2,Male,Indian,False
+1210,10-19,Male,Southeast Asian,False
+1211,20-29,Male,East Asian,True
+1212,0-2,Male,Black,True
+1213,20-29,Female,East Asian,False
+1214,20-29,Male,White,False
+1215,3-9,Male,Southeast Asian,True
+1216,50-59,Female,East Asian,True
+1217,40-49,Male,White,False
+1218,3-9,Male,Southeast Asian,True
+1219,3-9,Male,Indian,False
+1220,20-29,Male,Southeast Asian,False
+1221,20-29,Female,Southeast Asian,False
+1222,30-39,Male,Southeast Asian,False
+1223,20-29,Male,Southeast Asian,True
+1224,50-59,Male,Latino_Hispanic,False
+1225,50-59,Female,Latino_Hispanic,True
+1226,20-29,Female,Black,True
+1227,3-9,Male,Indian,False
+1228,10-19,Male,White,False
+1229,more than 70,Female,Indian,True
+1230,30-39,Male,East Asian,False
+1231,20-29,Female,East Asian,False
+1232,40-49,Male,Indian,True
+1233,20-29,Male,Latino_Hispanic,False
+1234,20-29,Male,White,True
+1235,30-39,Male,Middle Eastern,False
+1236,3-9,Male,East Asian,True
+1237,30-39,Male,Middle Eastern,True
+1238,40-49,Male,Middle Eastern,True
+1239,30-39,Female,East Asian,True
+1240,30-39,Female,White,False
+1241,10-19,Female,Southeast Asian,False
+1242,50-59,Female,Black,False
+1243,10-19,Female,Indian,True
+1244,10-19,Male,Latino_Hispanic,True
+1245,40-49,Female,East Asian,True
+1246,20-29,Female,White,False
+1247,20-29,Male,Black,True
+1248,10-19,Female,Latino_Hispanic,True
+1249,50-59,Female,Latino_Hispanic,True
+1250,20-29,Female,Black,False
+1251,10-19,Male,Indian,True
+1252,20-29,Female,White,False
+1253,60-69,Male,Latino_Hispanic,True
+1254,10-19,Male,White,False
+1255,40-49,Male,White,False
+1256,20-29,Female,Indian,True
+1257,10-19,Female,Indian,False
+1258,30-39,Male,White,False
+1259,30-39,Female,Black,True
+1260,60-69,Male,Southeast Asian,True
+1261,3-9,Female,Indian,True
+1262,30-39,Female,Black,True
+1263,40-49,Female,Indian,True
+1264,0-2,Male,Latino_Hispanic,True
+1265,20-29,Female,Southeast Asian,False
+1266,20-29,Male,East Asian,True
+1267,10-19,Male,Black,True
+1268,10-19,Male,Black,False
+1269,3-9,Male,White,False
+10000,50-59,Male,White,False
+10001,more than 70,Female,Latino_Hispanic,False
+10002,30-39,Male,White,True
+10003,3-9,Male,East Asian,False
+10004,40-49,Male,Indian,False
+10005,20-29,Male,Southeast Asian,False
+10006,20-29,Male,Latino_Hispanic,True
+10007,3-9,Male,Indian,False
+10008,20-29,Female,Latino_Hispanic,False
+10009,3-9,Female,East Asian,True
+10010,20-29,Male,Black,True
+10011,3-9,Male,Black,False
+10012,10-19,Male,Middle Eastern,True
+10013,20-29,Female,Middle Eastern,True
+10014,30-39,Female,Latino_Hispanic,True
+10015,30-39,Male,Indian,False
+10016,50-59,Male,Latino_Hispanic,False
+10017,50-59,Male,Indian,False
+10018,20-29,Female,White,False
+10019,40-49,Male,Latino_Hispanic,True
+10020,3-9,Male,Black,False
+10021,20-29,Male,Black,True
+10022,3-9,Male,Black,True
+10023,0-2,Female,East Asian,False
+10024,30-39,Female,Latino_Hispanic,True
+10025,20-29,Female,Middle Eastern,True
+10026,20-29,Male,East Asian,True
+10027,3-9,Female,Southeast Asian,False
+10028,3-9,Female,White,True
+10029,20-29,Female,East Asian,True
+10030,50-59,Male,East Asian,True
+10031,10-19,Male,Middle Eastern,True
+10032,20-29,Female,Black,True
+10033,50-59,Male,Latino_Hispanic,True
+10034,30-39,Female,Black,False
+10035,10-19,Male,East Asian,False
+10036,20-29,Female,Latino_Hispanic,False
+10037,30-39,Male,Southeast Asian,False
+10038,20-29,Female,Latino_Hispanic,True
+10039,40-49,Male,White,False
+10040,10-19,Female,Latino_Hispanic,False
+10041,3-9,Male,Black,False
+10042,20-29,Male,Southeast Asian,False
+10043,20-29,Male,White,True
+10044,20-29,Female,Southeast Asian,False
+10045,30-39,Male,Latino_Hispanic,True
+10046,10-19,Male,Indian,True
+10047,20-29,Female,Black,False
+10048,20-29,Female,Black,True
+10049,20-29,Male,White,False
+10050,20-29,Male,Black,True
+10051,20-29,Male,Southeast Asian,False
+10052,10-19,Female,Indian,False
+10053,30-39,Male,Black,False
+10054,30-39,Male,Middle Eastern,False
+10055,30-39,Male,White,False
+10056,30-39,Female,Black,True
+10057,40-49,Female,Indian,False
+10058,20-29,Female,Southeast Asian,True
+10059,40-49,Male,Latino_Hispanic,False
+10060,10-19,Male,Black,True
+10061,20-29,Female,Middle Eastern,True
+10062,20-29,Female,Latino_Hispanic,False
+10063,40-49,Female,Black,True
+10064,30-39,Male,Black,True
+10065,20-29,Female,White,True
+10066,30-39,Female,White,False
+10067,10-19,Male,White,True
+10068,20-29,Female,Middle Eastern,True
+10069,10-19,Male,Black,False
+10070,40-49,Male,White,False
+10071,40-49,Female,Black,True
+10072,30-39,Female,White,False
+10073,40-49,Male,White,True
+10074,40-49,Male,Black,True
+10075,10-19,Female,East Asian,True
+10076,30-39,Female,Latino_Hispanic,True
+10077,20-29,Male,East Asian,False
+10078,10-19,Male,Black,False
+10079,3-9,Female,Latino_Hispanic,False
+10080,30-39,Female,Black,True
+10081,60-69,Male,Southeast Asian,False
+10082,10-19,Female,Southeast Asian,True
+10083,20-29,Male,White,False
+10084,30-39,Male,White,False
+10085,10-19,Female,East Asian,True
+10086,40-49,Male,White,False
+10087,20-29,Male,Latino_Hispanic,True
+10088,40-49,Female,Latino_Hispanic,False
+10089,20-29,Female,White,True
+10090,0-2,Male,Black,False
+10091,20-29,Male,Middle Eastern,True
+10092,40-49,Female,White,True
+10093,3-9,Female,White,False
+10094,40-49,Female,Black,False
+10095,50-59,Male,East Asian,True
+10096,50-59,Male,East Asian,False
+10097,3-9,Male,Black,False
+10098,30-39,Male,Black,False
+10099,20-29,Male,East Asian,False
+10100,30-39,Female,White,False
+10101,60-69,Male,Middle Eastern,True
+10102,20-29,Male,Black,True
+10103,3-9,Male,Latino_Hispanic,True
+10104,20-29,Male,East Asian,False
+10105,more than 70,Male,Middle Eastern,True
+10106,20-29,Female,White,False
+10107,30-39,Male,Southeast Asian,True
+10108,30-39,Male,Middle Eastern,True
+10109,40-49,Male,White,False
+10110,3-9,Male,White,False
+10111,30-39,Male,Latino_Hispanic,True
+10112,10-19,Male,Latino_Hispanic,False
+10113,20-29,Male,White,False
+10114,3-9,Female,Latino_Hispanic,False
+10115,20-29,Female,East Asian,False
+10116,20-29,Female,Latino_Hispanic,True
+10117,30-39,Female,Indian,False
+10118,50-59,Female,White,True
+10119,3-9,Male,Latino_Hispanic,True
+10120,30-39,Male,Latino_Hispanic,False
+10121,10-19,Male,Southeast Asian,False
+10122,10-19,Male,Indian,True
+10123,40-49,Female,Southeast Asian,True
+10124,40-49,Male,Indian,False
+10125,30-39,Male,Latino_Hispanic,True
+10126,40-49,Female,Black,True
+10127,20-29,Male,White,False
+10128,30-39,Female,Black,True
+10129,30-39,Male,Black,True
+10130,40-49,Female,Indian,True
+10131,30-39,Male,Middle Eastern,False
+10132,10-19,Female,Black,False
+10133,30-39,Male,East Asian,True
+10134,10-19,Female,East Asian,True
+10135,30-39,Female,Latino_Hispanic,False
+10136,20-29,Female,Black,True
+10137,10-19,Female,Middle Eastern,True
+10138,20-29,Male,White,False
+10139,60-69,Male,Latino_Hispanic,True
+10140,30-39,Male,White,False
+10141,3-9,Male,Black,True
+10142,30-39,Female,Latino_Hispanic,True
+10143,3-9,Female,Latino_Hispanic,False
+10144,0-2,Male,White,False
+10145,40-49,Female,Black,False
+10146,3-9,Male,Indian,False
+10147,30-39,Male,Latino_Hispanic,False
+10148,3-9,Male,Black,False
+10149,20-29,Female,Indian,True
+10150,20-29,Female,Southeast Asian,False
+10151,20-29,Male,Middle Eastern,True
+10152,20-29,Male,Indian,True
+10153,20-29,Female,White,True
+10154,20-29,Female,East Asian,False
+10155,3-9,Male,Indian,True
+10156,20-29,Female,Middle Eastern,True
+10157,10-19,Female,East Asian,False
+10158,50-59,Male,Middle Eastern,False
+10159,60-69,Female,Latino_Hispanic,False
+10160,30-39,Female,Latino_Hispanic,True
+10161,3-9,Female,Southeast Asian,True
+10162,40-49,Male,Middle Eastern,True
+10163,10-19,Male,Southeast Asian,False
+10164,40-49,Male,White,False
+10165,30-39,Female,Latino_Hispanic,False
+10166,3-9,Female,East Asian,True
+10167,20-29,Female,Middle Eastern,True
+10168,30-39,Male,Black,False
+10169,10-19,Female,East Asian,False
+10170,50-59,Female,White,True
+10171,0-2,Female,Latino_Hispanic,False
+10172,20-29,Female,Latino_Hispanic,False
+10173,30-39,Female,Black,True
+10174,3-9,Female,Indian,False
+10175,10-19,Female,Southeast Asian,True
+10176,3-9,Female,White,False
+10177,20-29,Female,Southeast Asian,True
+10178,30-39,Female,Latino_Hispanic,False
+10179,20-29,Male,White,False
+10180,20-29,Female,White,True
+10181,10-19,Female,Latino_Hispanic,False
+10182,60-69,Female,White,False
+10183,30-39,Male,Indian,True
+10184,30-39,Female,Latino_Hispanic,False
+10185,30-39,Female,Indian,True
+10186,10-19,Female,White,True
+10187,20-29,Female,Indian,True
+10188,3-9,Male,Indian,False
+10189,30-39,Female,Latino_Hispanic,True
+10190,20-29,Female,East Asian,False
+10191,20-29,Male,East Asian,False
+10192,20-29,Male,Indian,True
+10193,3-9,Male,East Asian,False
+10194,10-19,Female,Middle Eastern,True
+10195,30-39,Female,White,False
+10196,50-59,Female,Indian,False
+10197,3-9,Female,East Asian,False
+10198,20-29,Female,White,False
+10199,3-9,Female,Black,False
+10200,3-9,Male,Black,False
+10201,30-39,Male,White,False
+10202,30-39,Female,White,False
+10203,60-69,Male,Latino_Hispanic,False
+10204,30-39,Male,Southeast Asian,False
+10205,20-29,Female,Indian,True
+10206,20-29,Male,Latino_Hispanic,True
+10207,20-29,Female,East Asian,False
+10208,20-29,Female,East Asian,True
+10209,60-69,Male,Middle Eastern,True
+10210,3-9,Male,Indian,True
+10211,20-29,Female,Indian,False
+10212,10-19,Male,East Asian,False
+10213,10-19,Male,Indian,False
+10214,30-39,Male,Black,False
+10215,40-49,Male,Indian,True
+10216,3-9,Female,Black,False
+10217,40-49,Female,Black,False
+10218,20-29,Female,Southeast Asian,True
+10219,10-19,Male,Middle Eastern,True
+10220,20-29,Male,Latino_Hispanic,True
+10221,3-9,Female,Latino_Hispanic,False
+10222,10-19,Male,East Asian,True
+10223,30-39,Male,Middle Eastern,False
+10224,20-29,Female,East Asian,True
+10225,40-49,Male,White,False
+10226,50-59,Male,Latino_Hispanic,False
+10227,10-19,Female,White,True
+10228,20-29,Female,East Asian,False
+10229,3-9,Female,Middle Eastern,True
+10230,3-9,Male,White,False
+10231,30-39,Female,Latino_Hispanic,True
+10232,20-29,Male,East Asian,True
+10233,60-69,Female,White,True
+10234,10-19,Male,Latino_Hispanic,True
+10235,40-49,Male,Latino_Hispanic,False
+10236,3-9,Male,Middle Eastern,False
+10237,30-39,Female,Indian,True
+10238,3-9,Male,Indian,False
+10239,20-29,Male,White,False
+10240,10-19,Male,Indian,False
+10241,20-29,Female,Latino_Hispanic,True
+10242,10-19,Female,Indian,True
+10243,30-39,Male,Indian,False
+10244,50-59,Female,Indian,True
+10245,10-19,Male,Black,False
+10246,20-29,Female,Latino_Hispanic,True
+10247,40-49,Male,Latino_Hispanic,False
+10248,30-39,Female,White,False
+10249,3-9,Male,Indian,False
+10250,40-49,Male,White,False
+10251,50-59,Male,Middle Eastern,False
+10252,10-19,Male,Indian,False
+10253,30-39,Male,Middle Eastern,True
+10254,50-59,Male,Middle Eastern,False
+10255,10-19,Female,Latino_Hispanic,False
+10256,0-2,Male,East Asian,False
+10257,20-29,Male,White,False
+10258,10-19,Male,Middle Eastern,True
+10259,50-59,Male,White,False
+10260,30-39,Female,Black,False
+10261,30-39,Female,Latino_Hispanic,False
+10262,3-9,Male,Southeast Asian,False
+10263,3-9,Male,White,True
+10264,3-9,Female,East Asian,False
+10265,10-19,Female,East Asian,True
+10266,40-49,Female,Latino_Hispanic,False
+10267,20-29,Male,Southeast Asian,True
+10268,3-9,Male,Middle Eastern,True
+10269,30-39,Male,White,True
+10270,3-9,Male,Southeast Asian,True
+10271,30-39,Male,Southeast Asian,True
+10272,20-29,Female,East Asian,True
+10273,30-39,Female,East Asian,True
+10274,30-39,Male,Middle Eastern,True
+10275,60-69,Male,Indian,False
+10276,3-9,Female,Latino_Hispanic,False
+10277,30-39,Female,Indian,False
+10278,10-19,Female,Southeast Asian,False
+10279,40-49,Female,East Asian,True
+10280,3-9,Female,Middle Eastern,True
+10281,20-29,Male,Indian,True
+10282,20-29,Male,Black,True
+10283,30-39,Female,White,False
+10284,40-49,Male,Middle Eastern,False
+10285,60-69,Male,Latino_Hispanic,True
+10286,3-9,Female,Southeast Asian,False
+10287,30-39,Male,White,True
+10288,30-39,Male,Southeast Asian,False
+10289,30-39,Male,Indian,False
+10290,20-29,Female,Black,True
+10291,50-59,Male,Latino_Hispanic,False
+10292,30-39,Female,White,False
+10293,20-29,Female,White,False
+10294,30-39,Female,Black,False
+10295,30-39,Male,East Asian,True
+10296,40-49,Female,Southeast Asian,False
+10297,30-39,Male,Black,False
+10298,20-29,Male,Middle Eastern,True
+10299,30-39,Female,Middle Eastern,True
+10300,20-29,Male,White,False
+10301,20-29,Female,East Asian,False
+10302,20-29,Male,East Asian,True
+10303,20-29,Female,Indian,True
+10304,30-39,Female,White,False
+10305,3-9,Female,Latino_Hispanic,True
+10306,40-49,Male,White,False
+10307,40-49,Male,White,False
+10308,30-39,Female,Middle Eastern,True
+10309,20-29,Male,Indian,True
+10310,20-29,Female,Southeast Asian,True
+10311,20-29,Male,Indian,True
+10312,20-29,Female,Southeast Asian,True
+10313,3-9,Male,Latino_Hispanic,True
+10314,50-59,Male,East Asian,False
+10315,20-29,Male,Middle Eastern,True
+10316,30-39,Male,Middle Eastern,True
+10317,60-69,Male,Latino_Hispanic,False
+10318,40-49,Male,Southeast Asian,True
+10319,30-39,Female,Southeast Asian,True
+10320,0-2,Male,White,False
+10321,50-59,Male,Indian,False
+10322,50-59,Male,Middle Eastern,True
+10323,3-9,Male,Middle Eastern,True
+10324,40-49,Male,White,True
+10325,20-29,Female,Southeast Asian,True
+10326,20-29,Male,Middle Eastern,True
+10327,40-49,Female,Latino_Hispanic,True
+10328,30-39,Male,Indian,True
+10329,20-29,Female,East Asian,False
+10330,20-29,Male,East Asian,False
+10331,30-39,Female,White,False
+10332,10-19,Male,East Asian,True
+10333,60-69,Male,White,False
+10334,20-29,Female,Latino_Hispanic,False
+10335,0-2,Female,Black,False
+10336,30-39,Male,Indian,True
+10337,20-29,Female,Indian,False
+10338,20-29,Female,Latino_Hispanic,True
+10339,10-19,Male,Southeast Asian,True
+10340,20-29,Female,Southeast Asian,True
+10341,60-69,Male,Black,True
+10342,60-69,Female,Indian,False
+10343,3-9,Female,Black,True
+10344,20-29,Male,Latino_Hispanic,True
+10345,20-29,Female,Black,True
+10346,20-29,Female,East Asian,True
+10347,20-29,Female,East Asian,True
+10348,20-29,Male,East Asian,True
+10349,30-39,Male,East Asian,False
+10350,20-29,Female,Middle Eastern,True
+10351,20-29,Female,East Asian,False
+10352,30-39,Male,Latino_Hispanic,False
+10353,10-19,Female,Black,False
+10354,30-39,Female,Indian,True
+10355,10-19,Male,Indian,True
+10356,20-29,Male,East Asian,False
+10357,20-29,Male,East Asian,False
+10358,40-49,Female,White,False
+10359,10-19,Female,Black,False
+10360,50-59,Female,Black,False
+10361,0-2,Male,Indian,False
+10362,30-39,Male,East Asian,False
+10363,20-29,Female,Indian,True
+10364,50-59,Female,East Asian,True
+10365,20-29,Female,White,False
+10366,20-29,Female,East Asian,False
+10367,40-49,Male,Black,False
+10368,40-49,Female,Indian,True
+10369,20-29,Female,Black,False
+10370,10-19,Female,Indian,True
+10371,20-29,Female,White,False
+10372,10-19,Female,Black,True
+10373,40-49,Female,White,False
+10374,20-29,Female,Latino_Hispanic,False
+10375,20-29,Male,Latino_Hispanic,True
+10376,30-39,Male,Latino_Hispanic,False
+10377,20-29,Female,White,True
+10378,10-19,Female,Indian,False
+10379,20-29,Male,Latino_Hispanic,True
+10380,50-59,Female,Middle Eastern,True
+10381,20-29,Female,East Asian,False
+10382,3-9,Male,White,False
+10383,20-29,Female,White,True
+10384,30-39,Male,Latino_Hispanic,False
+10385,40-49,Male,Indian,True
+10386,10-19,Female,Black,False
+10387,30-39,Male,Indian,True
+10388,50-59,Male,Middle Eastern,True
+10389,20-29,Female,White,True
+10390,10-19,Female,Latino_Hispanic,True
+10391,50-59,Male,Southeast Asian,True
+10392,20-29,Female,Latino_Hispanic,True
+10393,30-39,Female,Southeast Asian,True
+10394,10-19,Female,Black,False
+10395,50-59,Male,White,False
+10396,10-19,Female,East Asian,True
+10397,30-39,Male,Middle Eastern,False
+10398,20-29,Female,Black,False
+10399,20-29,Female,Black,False
+10400,20-29,Female,Latino_Hispanic,False
+10401,20-29,Female,East Asian,False
+10402,20-29,Male,Indian,True
+10403,50-59,Male,Middle Eastern,False
+10404,50-59,Female,Black,True
+10405,more than 70,Male,Latino_Hispanic,False
+10406,30-39,Male,East Asian,True
+10407,10-19,Female,Latino_Hispanic,False
+10408,30-39,Female,East Asian,True
+10409,40-49,Female,White,False
+10410,50-59,Male,White,False
+10411,30-39,Female,East Asian,False
+10412,30-39,Male,Latino_Hispanic,True
+10413,20-29,Female,East Asian,False
+10414,50-59,Male,White,False
+10415,40-49,Female,Indian,False
+10416,20-29,Female,East Asian,True
+10417,10-19,Male,Indian,True
+10418,3-9,Male,Indian,False
+10419,60-69,Male,Indian,True
+10420,10-19,Female,Southeast Asian,False
+10421,10-19,Male,Latino_Hispanic,False
+10422,20-29,Male,White,True
+10423,10-19,Female,Indian,True
+10424,20-29,Male,Black,True
+10425,20-29,Female,Latino_Hispanic,False
+10426,40-49,Female,East Asian,True
+10427,30-39,Male,White,False
+10428,10-19,Male,White,False
+10429,0-2,Male,Black,False
+10430,20-29,Male,Middle Eastern,True
+10431,20-29,Male,Southeast Asian,False
+10432,30-39,Male,White,False
+10433,30-39,Female,East Asian,False
+10434,20-29,Female,White,False
+10435,50-59,Female,White,False
+10436,20-29,Female,White,True
+10437,20-29,Male,White,False
+10438,30-39,Female,Indian,True
+10439,30-39,Female,Latino_Hispanic,True
+10440,20-29,Female,East Asian,False
+10441,20-29,Male,Latino_Hispanic,False
+10442,30-39,Female,East Asian,False
+10443,30-39,Male,Indian,False
+10444,10-19,Male,East Asian,False
+10445,3-9,Male,Black,False
+10446,10-19,Male,Indian,True
+10447,40-49,Male,White,False
+10448,10-19,Female,Latino_Hispanic,False
+10449,60-69,Male,Middle Eastern,False
+10450,20-29,Female,Latino_Hispanic,False
+10451,40-49,Female,Middle Eastern,True
+10452,30-39,Male,East Asian,False
+10453,30-39,Female,White,False
+10454,30-39,Male,Middle Eastern,False
+10455,10-19,Female,Latino_Hispanic,True
+10456,20-29,Male,East Asian,True
+10457,40-49,Male,White,False
+10458,20-29,Female,White,True
+10459,10-19,Male,East Asian,True
+10460,10-19,Male,East Asian,False
+10461,3-9,Male,Indian,False
+10462,30-39,Male,Middle Eastern,False
+10463,40-49,Male,Southeast Asian,True
+10464,30-39,Male,Latino_Hispanic,False
+10465,3-9,Male,East Asian,False
+10466,20-29,Male,East Asian,False
+10467,20-29,Female,East Asian,False
+10468,20-29,Female,East Asian,True
+10469,more than 70,Female,Indian,False
+10470,40-49,Female,Indian,False
+10471,60-69,Female,Latino_Hispanic,True
+10472,20-29,Female,East Asian,True
+10473,0-2,Male,East Asian,False
+10474,30-39,Male,East Asian,False
+10475,20-29,Female,Southeast Asian,False
+10476,20-29,Male,Southeast Asian,False
+10477,30-39,Male,White,False
+10478,30-39,Male,Middle Eastern,False
+10479,3-9,Female,White,False
+10480,30-39,Female,White,True
+10481,3-9,Female,Southeast Asian,False
+10482,30-39,Female,White,False
+10483,3-9,Male,Latino_Hispanic,True
+10484,10-19,Male,Southeast Asian,False
+10485,50-59,Female,White,False
+10486,10-19,Male,East Asian,True
+10487,30-39,Female,Southeast Asian,True
+10488,3-9,Female,Southeast Asian,False
+10489,10-19,Male,Southeast Asian,True
+10490,20-29,Male,East Asian,False
+10491,20-29,Female,Southeast Asian,True
+10492,20-29,Female,Latino_Hispanic,False
+10493,20-29,Female,Middle Eastern,True
+10494,30-39,Male,Black,False
+10495,30-39,Male,Southeast Asian,False
+10496,40-49,Female,Indian,True
+10497,40-49,Male,White,True
+10498,50-59,Male,Southeast Asian,False
+10499,40-49,Female,Black,False
+10500,30-39,Female,Black,True
+10501,more than 70,Male,Southeast Asian,False
+10502,10-19,Female,Latino_Hispanic,False
+10503,60-69,Male,Indian,False
+10504,20-29,Male,Southeast Asian,True
+10505,20-29,Male,Southeast Asian,False
+10506,60-69,Male,Southeast Asian,False
+10507,20-29,Male,Middle Eastern,True
+10508,3-9,Male,Indian,False
+10509,3-9,Female,Indian,False
+10510,10-19,Female,Indian,False
+10511,40-49,Male,Middle Eastern,True
+10512,20-29,Female,Latino_Hispanic,False
+10513,30-39,Female,East Asian,True
+10514,60-69,Male,White,False
+10515,50-59,Female,Indian,True
+10516,10-19,Male,East Asian,True
+10517,0-2,Male,Southeast Asian,False
+10518,20-29,Female,White,False
+10519,30-39,Female,Indian,True
+10520,20-29,Female,White,False
+10521,3-9,Female,Black,False
+10522,20-29,Male,Black,True
+10523,20-29,Male,Middle Eastern,True
+10524,3-9,Male,White,False
+10525,30-39,Male,East Asian,True
+10526,3-9,Female,East Asian,True
+10527,3-9,Male,Black,False
+10528,20-29,Male,Indian,True
+10529,30-39,Male,Indian,False
+10530,10-19,Female,Southeast Asian,False
+10531,20-29,Male,Indian,True
+10532,20-29,Female,White,False
+10533,10-19,Male,Indian,True
+10534,20-29,Male,Black,True
+10535,30-39,Female,White,False
+10536,20-29,Female,White,False
+10537,3-9,Female,White,False
+10538,40-49,Male,Latino_Hispanic,False
+10539,20-29,Female,Southeast Asian,False
+10540,20-29,Female,Southeast Asian,True
+10541,20-29,Male,White,True
+10542,10-19,Female,Southeast Asian,False
+10543,40-49,Male,Indian,False
+10544,30-39,Male,Latino_Hispanic,True
+10545,40-49,Female,Black,True
+10546,60-69,Male,Indian,False
+10547,40-49,Male,Indian,True
+10548,3-9,Female,Indian,False
+10549,20-29,Male,East Asian,False
+10550,10-19,Male,Middle Eastern,True
+10551,30-39,Male,Black,True
+10552,50-59,Male,Latino_Hispanic,False
+10553,20-29,Female,Latino_Hispanic,True
+10554,10-19,Male,Middle Eastern,True
+10555,30-39,Male,Latino_Hispanic,False
+10556,20-29,Female,Middle Eastern,True
+10557,50-59,Female,Indian,False
+10558,3-9,Female,Indian,True
+10559,30-39,Male,Middle Eastern,True
+10560,30-39,Male,Middle Eastern,True
+10561,20-29,Male,East Asian,True
+10562,20-29,Male,White,True
+10563,60-69,Female,Black,True
+10564,more than 70,Male,Latino_Hispanic,True
+10565,20-29,Female,Southeast Asian,False
+10566,30-39,Male,Southeast Asian,True
+10567,20-29,Male,White,False
+10568,30-39,Male,Southeast Asian,True
+10569,10-19,Female,Indian,False
+10570,30-39,Female,Black,False
+10571,40-49,Female,Southeast Asian,False
+10572,30-39,Male,Indian,True
+10573,3-9,Male,Black,True
+10574,30-39,Female,Black,False
+10575,30-39,Female,White,False
+10576,3-9,Male,Black,False
+10577,20-29,Female,Black,False
+10578,20-29,Female,White,False
+10579,20-29,Male,Middle Eastern,True
+10580,20-29,Male,Latino_Hispanic,True
+10581,60-69,Male,East Asian,False
+10582,20-29,Male,Southeast Asian,False
+10583,20-29,Male,Latino_Hispanic,False
+10584,40-49,Male,Latino_Hispanic,False
+10585,20-29,Male,East Asian,True
+10586,30-39,Male,Latino_Hispanic,False
+10587,30-39,Male,Indian,True
+10588,40-49,Male,Indian,False
+10589,3-9,Female,East Asian,True
+10590,30-39,Female,White,False
+10591,10-19,Female,Middle Eastern,True
+10592,20-29,Female,Latino_Hispanic,True
+10593,30-39,Female,White,False
+10594,50-59,Male,Latino_Hispanic,False
+10595,50-59,Male,East Asian,True
+10596,30-39,Male,Latino_Hispanic,False
+10597,30-39,Female,Latino_Hispanic,True
+10598,3-9,Female,Latino_Hispanic,True
+10599,10-19,Male,Southeast Asian,True
+10600,3-9,Male,Black,False
+10601,10-19,Female,White,True
+10602,3-9,Male,Southeast Asian,False
+10603,40-49,Male,White,False
+10604,30-39,Female,Indian,False
+10605,20-29,Female,Black,True
+10606,20-29,Male,Black,True
+10607,40-49,Male,Southeast Asian,True
+10608,40-49,Male,Indian,False
+10609,40-49,Male,Latino_Hispanic,False
+10610,30-39,Female,Southeast Asian,False
+10611,30-39,Female,East Asian,False
+10612,30-39,Male,East Asian,True
+10613,10-19,Female,Middle Eastern,True
+10614,20-29,Female,Southeast Asian,True
+10615,30-39,Female,White,False
+10616,30-39,Female,Middle Eastern,True
+10617,3-9,Female,Black,False
+10618,0-2,Female,East Asian,False
+10619,3-9,Male,Indian,True
+10620,20-29,Female,East Asian,True
+10621,20-29,Female,Southeast Asian,True
+10622,30-39,Male,Latino_Hispanic,True
+10623,50-59,Male,East Asian,False
+10624,30-39,Male,Southeast Asian,False
+10625,20-29,Male,White,False
+10626,20-29,Female,East Asian,True
+10627,20-29,Female,Black,True
+10628,50-59,Male,Middle Eastern,False
+10629,30-39,Female,Southeast Asian,False
+10630,40-49,Male,Latino_Hispanic,False
+10631,40-49,Male,Middle Eastern,False
+10632,20-29,Female,Latino_Hispanic,True
+10633,20-29,Female,Latino_Hispanic,False
+10634,20-29,Female,East Asian,True
+10635,20-29,Male,East Asian,True
+10636,30-39,Male,Southeast Asian,True
+10637,50-59,Male,Middle Eastern,False
+10638,10-19,Female,Middle Eastern,True
+10639,3-9,Male,Black,True
+10640,50-59,Male,Latino_Hispanic,False
+10641,3-9,Female,East Asian,False
+10642,30-39,Male,Middle Eastern,True
+10643,10-19,Male,Middle Eastern,True
+10644,30-39,Female,White,False
+10645,30-39,Male,Southeast Asian,False
+10646,30-39,Female,Latino_Hispanic,False
+10647,20-29,Male,Black,True
+10648,30-39,Male,Middle Eastern,False
+10649,3-9,Male,Latino_Hispanic,False
+10650,50-59,Female,White,False
+10651,30-39,Male,Indian,True
+10652,50-59,Female,Black,True
+10653,30-39,Female,East Asian,False
+10654,30-39,Male,Indian,False
+10655,10-19,Female,Black,False
+10656,20-29,Male,Black,True
+10657,10-19,Male,Middle Eastern,True
+10658,50-59,Female,Latino_Hispanic,False
+10659,30-39,Male,East Asian,True
+10660,30-39,Female,Indian,True
+10661,60-69,Male,Middle Eastern,False
+10662,10-19,Male,Black,True
+10663,40-49,Female,Black,True
+10664,40-49,Male,White,False
+10665,3-9,Female,White,True
+10666,10-19,Female,Southeast Asian,False
+10667,3-9,Male,Black,True
+10668,20-29,Male,Southeast Asian,False
+10669,30-39,Female,East Asian,True
+10670,3-9,Female,Indian,False
+10671,20-29,Male,East Asian,True
+10672,3-9,Female,White,True
+10673,20-29,Female,Latino_Hispanic,True
+10674,3-9,Male,East Asian,False
+10675,50-59,Male,Middle Eastern,False
+10676,3-9,Male,Indian,True
+10677,20-29,Female,East Asian,True
+10678,40-49,Male,Black,False
+10679,3-9,Female,East Asian,False
+10680,3-9,Male,East Asian,False
+10681,3-9,Male,East Asian,False
+10682,30-39,Male,Middle Eastern,False
+10683,40-49,Female,Southeast Asian,True
+10684,60-69,Female,Indian,True
+10685,50-59,Female,White,True
+10686,20-29,Male,East Asian,True
+10687,20-29,Female,East Asian,False
+10688,30-39,Female,East Asian,True
+10689,40-49,Male,Indian,False
+10690,10-19,Female,Latino_Hispanic,False
+10691,20-29,Female,East Asian,False
+10692,3-9,Male,Southeast Asian,False
+10693,30-39,Male,East Asian,False
+10694,0-2,Male,Middle Eastern,True
+10695,40-49,Female,White,True
+10696,20-29,Male,Middle Eastern,True
+10697,3-9,Female,Southeast Asian,False
+10698,3-9,Male,Black,False
+10699,3-9,Female,Latino_Hispanic,False
+10700,10-19,Female,Middle Eastern,True
+10701,40-49,Male,Black,False
+10702,20-29,Female,Indian,True
+10703,3-9,Male,White,True
+10704,20-29,Female,Southeast Asian,True
+10705,10-19,Male,Indian,True
+10706,40-49,Female,Indian,True
+10707,10-19,Male,White,False
+10708,20-29,Female,East Asian,False
+10709,20-29,Male,Indian,True
+10710,30-39,Female,East Asian,False
+10711,3-9,Male,Black,False
+10712,30-39,Male,Middle Eastern,False
+10713,30-39,Male,Middle Eastern,False
+10714,20-29,Female,Middle Eastern,True
+10715,20-29,Female,Black,True
+10716,30-39,Male,East Asian,True
+10717,30-39,Male,Indian,True
+10718,20-29,Male,Indian,True
+10719,30-39,Male,White,False
+10720,3-9,Male,East Asian,False
+10721,30-39,Female,Black,False
+10722,10-19,Female,East Asian,False
+10723,20-29,Male,East Asian,True
+10724,40-49,Male,Indian,False
+10725,60-69,Male,Black,False
+10726,20-29,Female,Black,True
+10727,3-9,Male,Middle Eastern,True
+10728,30-39,Female,Latino_Hispanic,True
+10729,20-29,Female,Indian,True
+10730,3-9,Female,White,True
+10731,30-39,Male,East Asian,False
+10732,50-59,Male,Indian,False
+10733,30-39,Female,White,False
+10734,40-49,Female,White,False
+10735,3-9,Female,Black,True
+10736,30-39,Male,Black,True
+10737,20-29,Male,White,True
+10738,30-39,Female,Indian,True
+10739,3-9,Female,Black,False
+10740,30-39,Male,White,True
+10741,20-29,Female,Latino_Hispanic,True
+10742,20-29,Female,Latino_Hispanic,True
+10743,20-29,Female,Middle Eastern,True
+10744,20-29,Female,White,True
+10745,20-29,Female,East Asian,True
+10746,20-29,Male,East Asian,True
+10747,30-39,Female,Middle Eastern,True
+10748,30-39,Male,White,False
+10749,3-9,Male,Middle Eastern,True
+10750,30-39,Male,Black,False
+10751,20-29,Male,East Asian,False
+10752,40-49,Female,Black,True
+10753,20-29,Female,East Asian,False
+10754,3-9,Female,Indian,True
+10755,20-29,Female,Southeast Asian,False
+10756,10-19,Female,Southeast Asian,False
+10757,30-39,Male,Middle Eastern,False
+10758,30-39,Female,Middle Eastern,True
+10759,40-49,Male,Middle Eastern,False
+10760,40-49,Male,White,False
+10761,3-9,Female,Southeast Asian,False
+10762,20-29,Male,Indian,True
+10763,40-49,Male,East Asian,False
+10764,30-39,Female,Latino_Hispanic,False
+10765,40-49,Male,East Asian,False
+10766,10-19,Female,Southeast Asian,True
+10767,40-49,Male,Black,False
+10768,3-9,Male,Black,False
+10769,10-19,Female,Indian,False
+10770,3-9,Female,Southeast Asian,False
+10771,40-49,Female,White,False
+10772,3-9,Female,Black,True
+10773,30-39,Male,Middle Eastern,False
+10774,20-29,Male,East Asian,True
+10775,20-29,Male,Indian,False
+10776,50-59,Female,Latino_Hispanic,False
+10777,20-29,Female,Southeast Asian,False
+10778,20-29,Male,Indian,True
+10779,40-49,Female,White,False
+10780,50-59,Female,East Asian,True
+10781,40-49,Female,White,False
+10782,20-29,Female,White,True
+10783,30-39,Male,Latino_Hispanic,True
+10784,30-39,Male,White,False
+10785,20-29,Female,Black,True
+10786,10-19,Female,Indian,True
+10787,20-29,Male,East Asian,True
+10788,30-39,Female,East Asian,True
+10789,30-39,Male,East Asian,True
+10790,20-29,Female,Latino_Hispanic,True
+10791,20-29,Male,Indian,True
+10792,60-69,Male,Latino_Hispanic,False
+10793,60-69,Male,Indian,False
+10794,30-39,Female,Black,False
+10795,50-59,Male,Latino_Hispanic,False
+10796,50-59,Female,White,True
+10797,20-29,Female,Latino_Hispanic,True
+10798,10-19,Male,East Asian,False
+10799,20-29,Male,White,False
+10800,30-39,Male,East Asian,False
+10801,40-49,Male,Southeast Asian,True
+10802,30-39,Male,Southeast Asian,True
+10803,20-29,Female,Southeast Asian,True
+10804,40-49,Male,Southeast Asian,False
+10805,30-39,Female,Black,False
+10806,30-39,Female,Indian,True
+10807,20-29,Female,White,False
+10808,3-9,Female,White,False
+10809,0-2,Female,Middle Eastern,True
+10810,3-9,Male,Indian,True
+10811,30-39,Male,Southeast Asian,True
+10812,30-39,Male,White,True
+10813,20-29,Female,Indian,False
+10814,30-39,Male,Indian,True
+10815,40-49,Male,Black,False
+10816,20-29,Male,Latino_Hispanic,True
+10817,30-39,Male,White,False
+10818,20-29,Female,Southeast Asian,True
+10819,30-39,Male,East Asian,True
+10820,20-29,Female,Southeast Asian,False
+10821,20-29,Male,Latino_Hispanic,True
+10822,30-39,Female,Southeast Asian,False
+10823,30-39,Female,Latino_Hispanic,True
+10824,3-9,Female,Indian,True
+10825,3-9,Male,Middle Eastern,False
+10826,20-29,Female,Southeast Asian,True
+10827,10-19,Female,Indian,True
+10828,50-59,Male,Latino_Hispanic,True
+10829,20-29,Male,Indian,True
+10830,20-29,Female,Southeast Asian,False
+10831,10-19,Female,East Asian,False
+10832,20-29,Female,Southeast Asian,True
+10833,3-9,Female,Black,False
+10834,50-59,Female,Southeast Asian,True
+10835,30-39,Female,Indian,True
+10836,40-49,Female,Black,True
+10837,60-69,Female,Black,False
+10838,3-9,Female,Middle Eastern,True
+10839,3-9,Male,Indian,False
+10840,3-9,Male,Black,True
+10841,20-29,Male,East Asian,True
+10842,3-9,Male,Southeast Asian,False
+10843,40-49,Female,Latino_Hispanic,False
+10844,40-49,Female,White,True
+10845,10-19,Female,Indian,True
+10846,30-39,Male,Indian,True
+10847,40-49,Female,Indian,True
+10848,20-29,Male,Middle Eastern,True
+10849,20-29,Male,Black,False
+10850,20-29,Female,Middle Eastern,True
+10851,50-59,Female,Latino_Hispanic,False
+10852,20-29,Male,White,False
+10853,50-59,Male,Latino_Hispanic,True
+10854,40-49,Male,Black,False
+10855,20-29,Female,Black,True
+10856,20-29,Female,East Asian,True
+10857,20-29,Male,East Asian,False
+10858,20-29,Female,Latino_Hispanic,False
+10859,40-49,Female,Indian,False
+10860,3-9,Male,White,True
+10861,40-49,Female,Southeast Asian,True
+10862,20-29,Female,East Asian,False
+10863,more than 70,Female,Latino_Hispanic,True
+10864,3-9,Male,Black,True
+10865,30-39,Male,Middle Eastern,True
+10866,50-59,Female,Southeast Asian,True
+10867,10-19,Male,East Asian,True
+10868,20-29,Female,East Asian,False
+10869,50-59,Male,White,False
+10870,20-29,Male,East Asian,True
+10871,3-9,Female,Black,False
+10872,30-39,Male,Latino_Hispanic,False
+10873,30-39,Male,Latino_Hispanic,False
+10874,20-29,Male,White,False
+10875,40-49,Male,Latino_Hispanic,False
+10876,20-29,Male,East Asian,False
+10877,20-29,Female,East Asian,True
+10878,40-49,Female,Black,False
+10879,20-29,Male,Latino_Hispanic,True
+10880,30-39,Female,Latino_Hispanic,False
+10881,20-29,Female,White,True
+10882,50-59,Male,White,True
+10883,20-29,Male,East Asian,True
+10884,30-39,Female,Latino_Hispanic,True
+10885,3-9,Female,Middle Eastern,True
+10886,20-29,Male,Latino_Hispanic,True
+10887,40-49,Male,Latino_Hispanic,True
+10888,10-19,Female,Indian,False
+10889,40-49,Male,Middle Eastern,False
+10890,20-29,Male,White,False
+10891,20-29,Female,Latino_Hispanic,True
+10892,10-19,Male,Southeast Asian,True
+10893,10-19,Male,White,False
+10894,3-9,Female,East Asian,False
+10895,20-29,Female,Black,True
+10896,40-49,Female,Latino_Hispanic,False
+10897,50-59,Female,East Asian,True
+10898,20-29,Female,White,True
+10899,3-9,Male,Indian,False
+10900,more than 70,Female,Indian,False
+10901,20-29,Male,Black,False
+10902,3-9,Female,East Asian,False
+10903,40-49,Male,Latino_Hispanic,False
+10904,10-19,Male,White,True
+10905,3-9,Female,Black,False
+10906,40-49,Female,Indian,False
+10907,30-39,Male,Indian,False
+10908,20-29,Female,White,True
+10909,30-39,Male,Black,False
+10910,50-59,Male,Black,True
+10911,20-29,Female,Indian,True
+10912,30-39,Female,Latino_Hispanic,True
+10913,20-29,Female,East Asian,True
+10914,30-39,Male,Black,False
+10915,3-9,Male,Indian,False
+10916,3-9,Male,East Asian,True
+10917,20-29,Female,East Asian,True
+10918,30-39,Male,White,True
+10919,40-49,Female,Southeast Asian,True
+10920,30-39,Male,Black,False
+10921,20-29,Female,Black,True
+10922,30-39,Female,Latino_Hispanic,False
+10923,20-29,Male,White,False
+10924,10-19,Male,Indian,False
+10925,50-59,Male,Southeast Asian,False
+10926,20-29,Female,White,True
+10927,10-19,Female,Indian,True
+10928,20-29,Female,Southeast Asian,False
+10929,20-29,Female,Indian,False
+10930,3-9,Male,Latino_Hispanic,False
+10931,3-9,Male,Indian,True
+10932,20-29,Female,White,False
+10933,50-59,Female,Latino_Hispanic,True
+10934,10-19,Male,Southeast Asian,False
+10935,30-39,Female,White,True
+10936,3-9,Female,Southeast Asian,False
+10937,40-49,Female,Indian,False
+10938,20-29,Male,Black,True
+10939,20-29,Female,Latino_Hispanic,False
+10940,10-19,Female,East Asian,False
+10941,3-9,Male,Black,False
+10942,20-29,Female,White,False
+10943,20-29,Female,Black,True
+10944,30-39,Female,Southeast Asian,True
+10945,20-29,Female,Southeast Asian,False
+10946,30-39,Male,White,False
+10947,40-49,Female,Latino_Hispanic,True
+10948,40-49,Male,Southeast Asian,True
+10950,30-39,Male,Southeast Asian,False
+10951,40-49,Male,Indian,False
+10952,20-29,Male,Southeast Asian,True
+10953,10-19,Male,Indian,False
+10954,20-29,Male,Latino_Hispanic,True
+10955,40-49,Male,Latino_Hispanic,True
+10956,50-59,Male,Middle Eastern,False
+10957,20-29,Female,East Asian,False
+10958,3-9,Male,East Asian,False
+10959,10-19,Male,Latino_Hispanic,True
+10960,0-2,Male,White,False
+10961,40-49,Male,East Asian,True
+10962,3-9,Male,White,True
+10963,20-29,Female,East Asian,False
+10964,10-19,Male,East Asian,True
+10965,40-49,Female,White,False
+10966,50-59,Male,Southeast Asian,False
+10967,30-39,Male,Black,True
+10968,30-39,Female,East Asian,False
+10969,20-29,Male,Southeast Asian,False
+10970,40-49,Male,Southeast Asian,True
+10971,50-59,Male,East Asian,False
+10972,40-49,Male,Latino_Hispanic,True
+10973,3-9,Female,Middle Eastern,True
+10974,20-29,Female,White,True
+10975,20-29,Male,East Asian,False
+10976,3-9,Female,Black,True
+10977,50-59,Female,Indian,True
+10978,40-49,Female,Latino_Hispanic,True
+10979,3-9,Male,Black,False
+10980,20-29,Male,White,True
+10981,20-29,Male,White,True
+10982,3-9,Male,Black,False
+10983,30-39,Male,Southeast Asian,True
+10984,40-49,Male,Black,False
+10985,20-29,Male,East Asian,True
+10986,30-39,Female,Black,False
+10987,50-59,Male,Southeast Asian,False
+10988,20-29,Male,Southeast Asian,True
+10989,30-39,Female,White,False
+10990,3-9,Male,Black,False
+10991,20-29,Female,White,True
+10992,20-29,Female,Middle Eastern,True
+10993,30-39,Male,Middle Eastern,True
+10994,40-49,Male,Southeast Asian,True
+10995,10-19,Female,White,False
+10996,30-39,Female,Latino_Hispanic,False
+10997,40-49,Female,White,False
+10998,60-69,Male,Middle Eastern,False
+10999,40-49,Male,Indian,False
+11000,30-39,Female,Latino_Hispanic,True
+11001,10-19,Female,Latino_Hispanic,False
+11002,30-39,Female,East Asian,True
+11003,20-29,Female,Latino_Hispanic,True
+11004,20-29,Female,East Asian,True
+11005,30-39,Male,Black,False
+11007,30-39,Male,East Asian,True
+11008,20-29,Male,Indian,False
+11009,20-29,Female,White,False
+11010,3-9,Female,Black,True
+11011,20-29,Male,White,True
+11012,20-29,Male,Black,True
+11013,60-69,Female,White,False
+11014,30-39,Female,White,False
+11015,30-39,Male,Indian,True
+11016,20-29,Male,Latino_Hispanic,True
+11017,30-39,Male,White,True
+11018,20-29,Female,Middle Eastern,True
+11019,20-29,Female,Middle Eastern,True
+11020,30-39,Male,Black,True
+11021,40-49,Female,Latino_Hispanic,False
+11022,20-29,Male,East Asian,True
+11023,30-39,Female,Middle Eastern,True
+11024,40-49,Male,Middle Eastern,True
+11025,30-39,Male,Latino_Hispanic,False
+11026,20-29,Male,White,False
+11027,20-29,Male,Latino_Hispanic,True
+11028,40-49,Female,White,False
+11029,40-49,Female,East Asian,True
+11030,20-29,Female,East Asian,False
+11031,30-39,Female,White,False
+11032,30-39,Female,Latino_Hispanic,False
+11033,3-9,Male,Latino_Hispanic,False
+11034,20-29,Female,Southeast Asian,False
+11035,3-9,Female,Black,False
+11036,3-9,Female,East Asian,False
+11037,20-29,Male,Black,True
+11038,20-29,Female,Latino_Hispanic,False
+11039,20-29,Female,Indian,False
+11040,3-9,Female,Latino_Hispanic,True
+11041,0-2,Female,White,False
+11042,10-19,Female,Indian,False
+11043,40-49,Male,Indian,False
+11044,30-39,Male,Middle Eastern,True
+11045,30-39,Female,Black,True
+11046,30-39,Female,Indian,True
+11047,20-29,Male,White,False
+11048,3-9,Female,Indian,True
+11049,20-29,Female,East Asian,False
+11050,20-29,Female,Indian,False
+11051,20-29,Female,Black,True
+11052,30-39,Male,East Asian,False
+11053,10-19,Female,Latino_Hispanic,False
+11054,30-39,Female,Black,False
+11055,3-9,Female,Southeast Asian,False
+11056,10-19,Male,Latino_Hispanic,False
+11057,30-39,Male,Latino_Hispanic,True
+11058,20-29,Female,Black,True
+11059,30-39,Female,Latino_Hispanic,False
+11060,3-9,Male,Indian,False
+11061,3-9,Male,East Asian,False
+11062,50-59,Female,Latino_Hispanic,False
+11063,3-9,Male,Black,False
+11064,10-19,Female,Black,False
+11065,20-29,Male,Black,True
+11066,40-49,Male,White,False
+11067,40-49,Male,Indian,True
+11068,30-39,Male,East Asian,False
+11069,60-69,Male,Indian,False
+11070,3-9,Male,Indian,True
+11071,30-39,Female,Southeast Asian,False
+11072,40-49,Male,White,False
+11073,20-29,Male,Latino_Hispanic,True
+11074,30-39,Female,Black,False
+11075,40-49,Female,Latino_Hispanic,False
+11076,40-49,Male,Middle Eastern,False
+11077,more than 70,Male,Southeast Asian,True
+11078,3-9,Male,East Asian,True
+11079,10-19,Female,Latino_Hispanic,True
+11080,30-39,Female,East Asian,True
+11081,3-9,Female,Black,True
+11082,30-39,Female,White,False
+11083,3-9,Female,Indian,True
+11084,10-19,Male,East Asian,False
+11085,30-39,Female,Indian,True
+11086,10-19,Male,East Asian,True
+11087,40-49,Male,East Asian,False
+11088,50-59,Female,East Asian,True
+11089,20-29,Male,Latino_Hispanic,True
+11090,30-39,Female,Latino_Hispanic,True
+11091,30-39,Male,Middle Eastern,True
+11092,30-39,Male,Indian,True
+11093,20-29,Male,East Asian,True
+11094,3-9,Female,Indian,True
+11095,3-9,Female,Southeast Asian,False
+11096,40-49,Male,Black,True
+11097,40-49,Male,Latino_Hispanic,True
+11098,30-39,Female,East Asian,True
+11099,40-49,Male,Middle Eastern,False
+11100,3-9,Female,Black,False
+11101,40-49,Male,Indian,False
+11102,3-9,Female,Southeast Asian,True
+11103,3-9,Male,Indian,False
+11104,30-39,Male,Black,True
+11105,50-59,Male,Indian,True
+11106,10-19,Male,East Asian,True
+11107,3-9,Female,East Asian,False
+11108,50-59,Male,White,False
+11109,3-9,Female,Latino_Hispanic,False
+11110,40-49,Male,White,False
+11111,0-2,Male,Black,False
+11112,10-19,Female,White,False
+11113,20-29,Female,East Asian,False
+11114,40-49,Female,Middle Eastern,True
+11115,more than 70,Male,Indian,True
+11116,50-59,Male,White,True
+11117,40-49,Male,Middle Eastern,False
+11118,3-9,Female,Black,False
+11119,20-29,Female,East Asian,False
+11120,20-29,Female,East Asian,True
+11121,10-19,Female,Latino_Hispanic,True
+11122,20-29,Female,Southeast Asian,False
+11123,20-29,Male,White,True
+11124,10-19,Female,East Asian,False
+11125,60-69,Male,Indian,False
+11126,more than 70,Female,Southeast Asian,False
+11127,60-69,Male,Latino_Hispanic,True
+11128,10-19,Male,East Asian,False
+11129,30-39,Male,Middle Eastern,True
+11130,20-29,Male,East Asian,False
+11131,3-9,Male,East Asian,False
+11132,30-39,Female,Indian,False
+11133,20-29,Female,White,False
+11134,20-29,Female,White,True
+11135,10-19,Female,Indian,True
+11136,20-29,Female,Southeast Asian,False
+11137,3-9,Male,Southeast Asian,True
+11138,30-39,Male,Southeast Asian,False
+11139,30-39,Male,Latino_Hispanic,False
+11140,20-29,Male,Southeast Asian,True
+11141,30-39,Female,Indian,False
+11142,30-39,Female,Indian,False
+11143,40-49,Male,White,False
+11144,20-29,Male,Middle Eastern,True
+11145,40-49,Male,Latino_Hispanic,False
+11146,40-49,Female,East Asian,True
+11147,10-19,Male,Latino_Hispanic,False
+11148,50-59,Female,East Asian,True
+11149,30-39,Female,Latino_Hispanic,True
+11150,20-29,Female,Latino_Hispanic,False
+11151,30-39,Female,White,False
+11152,40-49,Male,Black,True
+11153,10-19,Female,Middle Eastern,True
+11154,20-29,Female,Indian,True
+11155,30-39,Male,Middle Eastern,False
+11156,20-29,Male,Middle Eastern,True
+11157,40-49,Female,White,False
+11158,20-29,Female,East Asian,True
+11159,20-29,Male,Latino_Hispanic,True
+11160,10-19,Female,Latino_Hispanic,False
+11161,3-9,Male,Middle Eastern,False
+11162,20-29,Female,East Asian,False
+11163,20-29,Male,Indian,False
+11164,0-2,Female,Indian,False
+11165,20-29,Female,White,False
+11166,40-49,Male,Middle Eastern,True
+11167,20-29,Male,Indian,True
+11168,30-39,Male,White,False
+11169,3-9,Female,Indian,False
+11170,50-59,Male,Latino_Hispanic,False
+11171,30-39,Male,Latino_Hispanic,False
+11172,30-39,Female,Black,True
+11173,20-29,Male,East Asian,False
+11174,50-59,Female,Latino_Hispanic,False
+11175,30-39,Female,Indian,True
+11176,20-29,Male,East Asian,True
+11177,10-19,Male,Southeast Asian,True
+11178,3-9,Male,Black,False
+11179,30-39,Female,Latino_Hispanic,False
+11180,3-9,Female,White,True
+11181,30-39,Male,Southeast Asian,False
+11182,20-29,Male,Middle Eastern,True
+11183,3-9,Female,Black,False
+11184,20-29,Male,East Asian,False
+11185,20-29,Female,Southeast Asian,False
+11186,20-29,Female,White,False
+11187,20-29,Female,White,False
+11188,20-29,Male,Southeast Asian,False
+11189,50-59,Female,White,False
+11190,20-29,Male,Southeast Asian,True
+11191,20-29,Female,White,False
+11192,3-9,Male,Indian,False
+11193,20-29,Female,East Asian,False
+11194,30-39,Male,Indian,False
+11195,30-39,Female,Indian,True
+11196,30-39,Male,Southeast Asian,False
+11197,20-29,Male,Middle Eastern,True
+11198,30-39,Male,White,False
+11199,20-29,Female,Middle Eastern,True
+11200,40-49,Female,Latino_Hispanic,False
+11201,30-39,Male,White,False
+11202,10-19,Male,Black,False
+11203,50-59,Male,Southeast Asian,False
+11204,10-19,Female,East Asian,False
+11205,20-29,Female,White,False
+11206,40-49,Male,Middle Eastern,False
+11207,30-39,Female,Indian,True
+11208,10-19,Female,Latino_Hispanic,True
+11209,20-29,Male,White,False
+11210,30-39,Female,East Asian,False
+11211,20-29,Female,Latino_Hispanic,False
+11212,20-29,Male,Middle Eastern,True
+11213,3-9,Female,Southeast Asian,False
+11214,40-49,Male,Black,False
+11215,10-19,Male,Middle Eastern,True
+11216,30-39,Male,Black,False
+11217,10-19,Male,Southeast Asian,False
+11218,60-69,Male,Latino_Hispanic,True
+11219,3-9,Female,Latino_Hispanic,False
+11220,30-39,Male,Black,False
+11221,20-29,Male,Black,True
+11222,20-29,Male,Middle Eastern,True
+11223,20-29,Male,East Asian,True
+11224,40-49,Female,Southeast Asian,True
+11225,10-19,Female,East Asian,False
+11226,50-59,Male,Middle Eastern,False
+11227,20-29,Female,East Asian,True
+11228,30-39,Female,White,False
+11229,30-39,Female,White,False
+11230,10-19,Male,Southeast Asian,False
+11231,20-29,Male,Southeast Asian,True
+11232,more than 70,Female,Middle Eastern,True
+11233,40-49,Female,Black,False
+11234,10-19,Female,Black,False
+11235,40-49,Male,Latino_Hispanic,False
+11236,3-9,Female,White,False
+11237,30-39,Female,Southeast Asian,True
+11238,20-29,Male,Black,True
+11239,20-29,Male,Southeast Asian,True
+11240,20-29,Male,Latino_Hispanic,False
+11241,10-19,Female,Indian,True
+11242,10-19,Male,Southeast Asian,True
+11243,50-59,Male,East Asian,False
+11244,3-9,Male,Latino_Hispanic,False
+11245,10-19,Male,Black,True
+11246,30-39,Male,White,False
+11247,20-29,Female,White,False
+11248,20-29,Female,White,False
+11249,20-29,Female,White,False
+11250,20-29,Female,Indian,False
+11251,60-69,Female,Indian,False
+11252,40-49,Female,Black,False
+11253,40-49,Male,Middle Eastern,False
+11254,10-19,Male,White,False
+11255,20-29,Female,Southeast Asian,True
+11256,20-29,Male,East Asian,True
+11257,20-29,Male,White,True
+11258,3-9,Female,Middle Eastern,True
+11259,10-19,Male,Black,False
+11260,20-29,Female,East Asian,True
+11261,40-49,Male,Middle Eastern,True
+11262,10-19,Female,Indian,False
+11263,30-39,Male,White,False
+11264,20-29,Female,Black,True
+11265,10-19,Female,Black,True
+11266,60-69,Male,Southeast Asian,False
+11267,40-49,Male,White,False
+11268,20-29,Female,White,False
+11269,60-69,Female,Middle Eastern,True
+11270,20-29,Female,White,True
+11271,20-29,Female,East Asian,False
+11272,50-59,Male,Black,False
+11273,30-39,Male,White,False
+11274,40-49,Male,Middle Eastern,False
+11275,3-9,Female,Black,False
+11276,40-49,Male,East Asian,True
+11277,3-9,Male,Indian,False
+11278,10-19,Male,Indian,False
+11279,3-9,Female,Black,False
+11280,30-39,Female,East Asian,True
+11281,30-39,Male,Indian,True
+11282,20-29,Male,White,False
+11283,10-19,Female,Black,True
+11284,3-9,Male,Black,False
+11285,30-39,Male,Latino_Hispanic,True
+11286,20-29,Female,White,True
+11287,10-19,Female,Southeast Asian,True
+11288,30-39,Female,Indian,True
+11289,50-59,Male,Middle Eastern,False
+11290,20-29,Female,White,False
+11291,10-19,Female,Indian,True
+11292,10-19,Female,Middle Eastern,True
+11293,60-69,Female,Latino_Hispanic,True
+11294,30-39,Male,Indian,False
+11295,10-19,Male,White,False
+11296,40-49,Male,White,False
+11297,10-19,Male,East Asian,True
+11298,10-19,Female,Latino_Hispanic,True
+11299,40-49,Female,Latino_Hispanic,False
+11300,10-19,Female,Black,True
+11301,40-49,Male,Black,False
+11302,50-59,Male,Black,False
+11303,3-9,Female,Black,False
+11304,0-2,Female,Southeast Asian,True
+11305,20-29,Female,Latino_Hispanic,True
+11306,20-29,Female,East Asian,True
+11307,60-69,Female,Black,False
+11308,50-59,Male,Latino_Hispanic,True
+11309,20-29,Female,Southeast Asian,True
+11310,40-49,Female,Southeast Asian,True
+11311,30-39,Female,White,False
+11312,30-39,Female,Indian,False
+11313,40-49,Male,East Asian,False
+11314,50-59,Female,Black,False
+11315,20-29,Female,East Asian,True
+11316,50-59,Female,Black,False
+11317,60-69,Male,Middle Eastern,False
+11318,20-29,Female,Southeast Asian,True
+11319,30-39,Female,East Asian,True
+11320,20-29,Female,Latino_Hispanic,False
+11321,60-69,Male,Latino_Hispanic,True
+11322,3-9,Female,Black,False
+11323,30-39,Male,White,False
+11324,3-9,Male,East Asian,False
+11325,20-29,Female,East Asian,False
+11326,30-39,Female,White,False
+11327,30-39,Female,Southeast Asian,False
+11328,20-29,Male,Black,True
+11329,10-19,Female,White,True
+11330,more than 70,Male,Southeast Asian,True
+11331,30-39,Male,Latino_Hispanic,False
+11332,40-49,Male,White,False
+11333,20-29,Male,White,False
+11334,3-9,Female,Middle Eastern,True
+11335,20-29,Male,White,False
+11336,40-49,Male,Southeast Asian,False
+11337,0-2,Male,Black,False
+11338,20-29,Female,East Asian,False
+11339,10-19,Male,Southeast Asian,True
+11340,40-49,Male,White,False
+11341,50-59,Male,Southeast Asian,True
+11342,20-29,Female,Indian,True
+11343,30-39,Male,Indian,False
+11344,3-9,Male,Latino_Hispanic,False
+11345,40-49,Male,Latino_Hispanic,False
+11346,30-39,Male,Southeast Asian,False
+11347,40-49,Male,Latino_Hispanic,False
+11348,30-39,Male,Latino_Hispanic,False
+11349,20-29,Female,Indian,True
+11350,30-39,Male,White,False
+11351,30-39,Female,White,False
+11352,3-9,Male,Middle Eastern,True
+11353,20-29,Female,Black,False
+11354,40-49,Male,Black,False
+11355,30-39,Female,East Asian,False
+11356,30-39,Male,East Asian,True
+11357,20-29,Female,Southeast Asian,True
+11358,20-29,Female,White,False
+11359,20-29,Female,Latino_Hispanic,True
+11360,20-29,Male,Latino_Hispanic,False
+11361,30-39,Female,Black,False
+11362,3-9,Male,Indian,True
+11363,30-39,Male,Latino_Hispanic,False
+11364,10-19,Female,East Asian,False
+11365,20-29,Female,Latino_Hispanic,False
+11366,20-29,Female,White,False
+11367,20-29,Female,Southeast Asian,False
+11368,20-29,Male,Black,True
+11369,10-19,Male,Latino_Hispanic,False
+11370,3-9,Male,Southeast Asian,False
+11371,20-29,Female,Latino_Hispanic,True
+11372,20-29,Male,Latino_Hispanic,False
+11373,30-39,Female,East Asian,False
+11374,20-29,Female,East Asian,True
+11375,30-39,Female,Middle Eastern,True
+11376,60-69,Male,White,True
+11377,20-29,Female,East Asian,True
+11378,60-69,Male,Latino_Hispanic,True
+11379,30-39,Female,Southeast Asian,False
+11380,20-29,Female,Latino_Hispanic,False
+11381,30-39,Male,Indian,False
+11382,40-49,Female,Black,True
+11383,20-29,Female,White,False
+11384,30-39,Female,Latino_Hispanic,False
+11385,20-29,Male,White,False
+11386,0-2,Female,White,False
+11387,50-59,Male,Middle Eastern,True
+11388,30-39,Male,Black,True
+11389,10-19,Female,East Asian,True
+11390,20-29,Male,White,True
+11391,10-19,Male,Black,True
+11392,30-39,Male,Latino_Hispanic,True
+11393,3-9,Female,Southeast Asian,False
+11394,30-39,Female,Latino_Hispanic,False
+11395,60-69,Male,Latino_Hispanic,True
+11396,60-69,Female,Indian,False
+11397,3-9,Female,Latino_Hispanic,True
+11398,50-59,Female,White,True
+11399,20-29,Male,Southeast Asian,True
+11400,20-29,Male,Latino_Hispanic,True
+11401,30-39,Male,White,True
+11402,20-29,Male,Middle Eastern,True
+11403,30-39,Male,Latino_Hispanic,False
+11404,3-9,Male,Southeast Asian,True
+11405,20-29,Male,Middle Eastern,False
+11406,40-49,Female,Black,True
+11407,30-39,Female,Southeast Asian,False
+11408,20-29,Male,White,True
+11409,20-29,Male,East Asian,True
+11410,30-39,Male,East Asian,True
+11411,3-9,Male,Latino_Hispanic,True
+11412,30-39,Male,White,True
+11413,50-59,Female,Latino_Hispanic,False
+11414,0-2,Male,White,False
+11415,40-49,Female,Southeast Asian,True
+11416,3-9,Male,Southeast Asian,False
+11417,50-59,Male,Latino_Hispanic,False
+11418,30-39,Male,East Asian,False
+11419,20-29,Male,East Asian,True
+11420,30-39,Male,East Asian,True
+11421,20-29,Female,Southeast Asian,True
+11422,20-29,Female,Southeast Asian,True
+11423,30-39,Male,Black,False
+11424,20-29,Female,Latino_Hispanic,True
+11425,20-29,Female,Southeast Asian,True
+11426,30-39,Male,White,False
+11427,40-49,Male,Indian,False
+11428,20-29,Female,Indian,True
+11429,30-39,Female,White,False
+11430,20-29,Male,Indian,True
+11431,3-9,Female,Indian,False
+11432,50-59,Male,Black,False
+11433,50-59,Male,Middle Eastern,False
+11434,30-39,Male,Middle Eastern,False
+11435,3-9,Female,Black,True
+11436,3-9,Female,Black,False
+11437,40-49,Female,Black,False
+11438,20-29,Female,Indian,False
+11439,30-39,Male,White,True
+11440,20-29,Male,Southeast Asian,True
+11441,3-9,Male,Indian,True
+11442,20-29,Female,Latino_Hispanic,False
+11443,40-49,Male,East Asian,True
+11444,30-39,Female,East Asian,False
+11445,40-49,Male,Southeast Asian,False
+11446,40-49,Female,White,False
+11447,3-9,Female,East Asian,False
+11448,20-29,Male,East Asian,False
+11449,30-39,Female,Latino_Hispanic,True
+11450,20-29,Female,Southeast Asian,True
+11451,60-69,Male,East Asian,False
+11452,10-19,Male,Black,False
+11453,60-69,Male,Middle Eastern,False
+11454,10-19,Female,Black,False
+11455,50-59,Female,Southeast Asian,True
+11456,10-19,Male,East Asian,True
+11457,3-9,Male,Southeast Asian,False
+11458,20-29,Female,Black,True
+11459,40-49,Male,Southeast Asian,True
+11460,3-9,Female,East Asian,True
+11461,20-29,Male,East Asian,False
+11462,50-59,Male,Middle Eastern,False
+11463,20-29,Male,East Asian,True
+11464,30-39,Male,Middle Eastern,False
+11465,0-2,Male,Southeast Asian,False
+11466,3-9,Male,Black,False
+11467,0-2,Male,East Asian,False
+11468,50-59,Female,Indian,True
+11469,30-39,Female,East Asian,True
+11470,20-29,Male,East Asian,False
+11471,20-29,Male,White,False
+11472,20-29,Male,Indian,False
+11473,30-39,Female,White,False
+11474,40-49,Male,East Asian,False
+11475,10-19,Female,Latino_Hispanic,True
+11476,3-9,Male,Indian,True
+11477,3-9,Male,Southeast Asian,False
+11478,30-39,Male,Middle Eastern,True
+11479,40-49,Female,Middle Eastern,True
+11480,3-9,Female,Black,False
+11481,3-9,Male,East Asian,False
+11482,40-49,Female,White,True
+11483,30-39,Male,Black,False
+11484,0-2,Female,White,True
+11485,10-19,Female,Indian,False
+11486,20-29,Female,Indian,True
+11487,3-9,Male,East Asian,False
+11488,60-69,Male,Middle Eastern,False
+11489,30-39,Female,Black,True
+11490,20-29,Female,Latino_Hispanic,False
+11491,30-39,Female,Middle Eastern,True
+11492,30-39,Male,Indian,True
+11493,20-29,Male,Black,True
+11494,50-59,Male,Indian,False
+11495,20-29,Female,Indian,True
+11496,30-39,Male,Black,False
+11497,3-9,Male,Latino_Hispanic,True
+11498,3-9,Female,East Asian,False
+11499,3-9,Male,Middle Eastern,True
+11500,20-29,Female,White,False
+11501,30-39,Male,Middle Eastern,True
+11502,0-2,Male,White,False
+11503,20-29,Male,Indian,False
+11504,40-49,Male,Latino_Hispanic,False
+11505,3-9,Female,Indian,False
+11506,3-9,Male,East Asian,True
+11507,40-49,Male,Indian,True
+11508,30-39,Male,Indian,False
+11509,3-9,Female,Middle Eastern,True
+11510,30-39,Female,Latino_Hispanic,True
+11511,50-59,Male,Middle Eastern,True
+11512,40-49,Female,Black,False
+11513,30-39,Male,Black,True
+11514,20-29,Female,Latino_Hispanic,False
+11515,30-39,Male,Latino_Hispanic,True
+11516,10-19,Female,White,True
+11517,20-29,Male,Middle Eastern,True
+11518,20-29,Male,White,False
+11519,20-29,Male,White,True
+11520,3-9,Male,Black,True
+11521,30-39,Male,White,True
+11522,10-19,Male,Black,False
+11523,40-49,Female,White,True
+11524,10-19,Male,Latino_Hispanic,True
+11525,30-39,Female,Indian,False
+11526,10-19,Male,Latino_Hispanic,False
+11527,30-39,Female,East Asian,False
+11528,30-39,Male,Southeast Asian,False
+11529,10-19,Male,White,True
+11530,30-39,Male,Southeast Asian,True
+11531,20-29,Female,East Asian,False
+11532,30-39,Male,Latino_Hispanic,False
+11533,20-29,Male,White,False
+11534,20-29,Female,Southeast Asian,False
+11535,30-39,Male,Southeast Asian,False
+11536,60-69,Female,Latino_Hispanic,False
+11537,30-39,Male,White,False
+11538,30-39,Male,Indian,False
+11539,30-39,Male,Latino_Hispanic,False
+11540,60-69,Female,White,True
+11541,30-39,Male,East Asian,True
+11542,60-69,Male,Middle Eastern,False
+11543,60-69,Male,Southeast Asian,True
+11544,40-49,Female,Latino_Hispanic,False
+11545,20-29,Female,Latino_Hispanic,True
+11546,3-9,Male,East Asian,True
+11547,10-19,Female,Latino_Hispanic,False
+11548,30-39,Male,East Asian,False
+11549,40-49,Male,Black,False
+11550,3-9,Male,Black,True
+11551,20-29,Female,Indian,True
+11552,60-69,Female,Middle Eastern,True
+11553,10-19,Male,Southeast Asian,True
+11554,10-19,Female,Indian,False
+11555,20-29,Male,Southeast Asian,True
+11556,20-29,Male,Southeast Asian,True
+11557,3-9,Female,Indian,False
+11558,30-39,Female,White,False
+11559,20-29,Male,Middle Eastern,True
+11560,40-49,Male,East Asian,False
+11561,30-39,Male,Middle Eastern,False
+11562,30-39,Female,Latino_Hispanic,True
+11563,20-29,Female,Indian,True
+11564,40-49,Male,East Asian,False
+11565,30-39,Female,Latino_Hispanic,False
+11566,20-29,Male,East Asian,True
+11567,20-29,Male,Latino_Hispanic,False
+11568,20-29,Male,Indian,True
+11569,10-19,Female,Black,False
+11570,40-49,Male,Indian,True
+11571,30-39,Male,Middle Eastern,False
+11572,20-29,Female,White,True
+11573,40-49,Male,Latino_Hispanic,False
+11574,20-29,Female,White,True
+11575,3-9,Female,Black,False
+11576,3-9,Male,Southeast Asian,False
+11577,60-69,Male,White,False
+11578,50-59,Female,Indian,False
+11579,30-39,Male,White,False
+11580,30-39,Male,Black,True
+11581,more than 70,Male,Indian,False
+11582,10-19,Female,White,False
+11583,30-39,Male,Middle Eastern,False
+11584,20-29,Female,Indian,False
+11585,20-29,Male,Middle Eastern,True
+11586,20-29,Female,Indian,True
+11587,20-29,Male,White,False
+11588,20-29,Female,Black,False
+11589,20-29,Female,Black,False
+11590,20-29,Male,White,False
+11591,50-59,Male,Indian,False
+11592,30-39,Male,Indian,False
+11593,20-29,Male,Latino_Hispanic,False
+11594,20-29,Female,Southeast Asian,True
+11595,20-29,Male,White,False
+11596,40-49,Male,Middle Eastern,True
+11597,50-59,Male,Indian,False
+11598,30-39,Male,Middle Eastern,False
+11599,40-49,Male,Black,False
+11600,10-19,Male,Southeast Asian,False
+11601,0-2,Male,Indian,False
+11602,30-39,Male,Indian,False
+11603,20-29,Male,Latino_Hispanic,False
+11604,50-59,Male,Latino_Hispanic,False
+11605,20-29,Male,Latino_Hispanic,False
+11606,20-29,Female,Middle Eastern,True
+11607,50-59,Male,Middle Eastern,False
+11608,20-29,Female,Black,True
+11609,30-39,Male,Southeast Asian,True
+11610,20-29,Female,White,False
+11611,10-19,Female,Black,False
+11612,20-29,Male,Black,False
+11613,40-49,Male,Black,True
+11614,30-39,Female,Middle Eastern,True
+11615,10-19,Male,Latino_Hispanic,False
+11616,30-39,Male,White,False
+11617,30-39,Male,Indian,False
+11618,3-9,Female,East Asian,False
+11619,30-39,Male,Southeast Asian,True
+11620,0-2,Female,Latino_Hispanic,False
+11621,3-9,Male,East Asian,False
+11622,60-69,Male,Middle Eastern,True
+11623,60-69,Male,Latino_Hispanic,True
+11624,0-2,Male,East Asian,False
+11625,20-29,Male,Middle Eastern,False
+11626,3-9,Male,Black,False
+11627,20-29,Male,Latino_Hispanic,False
+11628,10-19,Male,Black,False
+11629,30-39,Male,Southeast Asian,True
+11630,30-39,Male,White,False
+11631,40-49,Female,Black,False
+11632,30-39,Male,Middle Eastern,False
+11633,20-29,Male,White,False
+11634,30-39,Male,Latino_Hispanic,False
+11635,20-29,Male,East Asian,True
+11636,20-29,Male,Southeast Asian,True
+11637,30-39,Female,White,True
+11638,30-39,Male,Indian,False
+11639,20-29,Male,Middle Eastern,True
+11640,3-9,Male,Southeast Asian,False
+11641,20-29,Male,Middle Eastern,True
+11642,40-49,Female,Indian,False
+11643,20-29,Male,Southeast Asian,True
+11644,40-49,Male,Middle Eastern,False
+11645,20-29,Female,White,True
+11646,3-9,Male,Indian,False
+11647,3-9,Female,Southeast Asian,True
+11648,20-29,Male,Black,False
+11649,20-29,Female,White,False
+11650,40-49,Female,White,True
+11651,30-39,Female,Southeast Asian,True
+11652,20-29,Male,East Asian,True
+11653,20-29,Male,Indian,True
+11654,50-59,Male,Latino_Hispanic,False
+11655,40-49,Male,Black,False
+11656,40-49,Female,Indian,True
+11657,10-19,Female,White,False
+11658,3-9,Female,Black,True
+11659,40-49,Female,Black,False
+11660,30-39,Female,Black,True
+11661,20-29,Male,East Asian,True
+11662,40-49,Male,Middle Eastern,False
+11663,20-29,Male,White,True
+11664,30-39,Female,Indian,True
+11665,20-29,Female,White,False
+11666,20-29,Female,White,False
+11667,0-2,Female,White,False
+11668,3-9,Male,White,False
+11669,20-29,Male,Indian,True
+11670,20-29,Female,East Asian,False
+11671,40-49,Male,Middle Eastern,True
+11672,30-39,Male,East Asian,True
+11673,20-29,Male,White,False
+11674,3-9,Male,Southeast Asian,False
+11675,3-9,Male,East Asian,False
+11676,20-29,Male,Black,True
+11677,30-39,Female,Black,True
+11678,30-39,Male,White,False
+11679,20-29,Female,East Asian,False
+11680,20-29,Female,East Asian,False
+11681,3-9,Female,Middle Eastern,True
+11682,30-39,Male,White,False
+11683,3-9,Male,Black,True
+11684,20-29,Male,Latino_Hispanic,True
+11685,40-49,Female,White,True
+11686,20-29,Female,Indian,True
+11687,30-39,Female,White,True
+11688,3-9,Male,Southeast Asian,False
+11689,20-29,Female,White,False
+11690,20-29,Female,East Asian,False
+11691,60-69,Male,White,False
+11692,20-29,Female,Southeast Asian,True
+11693,30-39,Female,Black,False
+11694,3-9,Female,Indian,False
+11695,3-9,Male,Black,False
+11696,10-19,Female,Black,False
+11697,20-29,Male,Latino_Hispanic,True
+11698,40-49,Male,Middle Eastern,False
+11699,60-69,Male,Latino_Hispanic,False
+11700,3-9,Female,Latino_Hispanic,False
+11701,20-29,Male,East Asian,True
+11702,3-9,Female,Indian,False
+11703,20-29,Male,Black,False
+11704,60-69,Male,Middle Eastern,False
+11705,30-39,Male,Black,True
+11706,0-2,Male,Latino_Hispanic,True
+11707,20-29,Female,White,False
+11708,60-69,Male,Latino_Hispanic,False
+11709,50-59,Male,Middle Eastern,False
+11710,60-69,Male,Middle Eastern,False
+11711,20-29,Male,East Asian,True
+11712,30-39,Female,Black,True
+11713,50-59,Male,White,False
+11714,60-69,Male,White,False
+11715,20-29,Female,East Asian,False
+11716,30-39,Male,Middle Eastern,False
+11717,30-39,Male,White,True
+11718,30-39,Male,Southeast Asian,True
+11719,30-39,Male,Middle Eastern,False
+11720,50-59,Male,Indian,True
+11721,20-29,Male,White,True
+11722,20-29,Female,White,False
+11723,20-29,Male,East Asian,True
+11724,30-39,Male,White,True
+11725,20-29,Female,Indian,False
+11726,3-9,Female,East Asian,False
+11727,20-29,Female,Latino_Hispanic,True
+11728,20-29,Female,East Asian,True
+11729,60-69,Female,White,True
+11730,40-49,Female,Black,False
+11731,3-9,Male,Latino_Hispanic,False
+11732,20-29,Female,White,False
+11733,20-29,Female,Southeast Asian,True
+11734,40-49,Female,Latino_Hispanic,True
+11735,50-59,Male,Indian,False
+11736,20-29,Female,Black,True
+11737,3-9,Male,East Asian,False
+11738,20-29,Female,East Asian,False
+11739,3-9,Female,Black,False
+11740,30-39,Male,Black,False
+11741,3-9,Male,Black,False
+11742,3-9,Male,East Asian,True
+11743,3-9,Female,East Asian,True
+11744,30-39,Male,Latino_Hispanic,False
+11745,50-59,Male,Indian,True
+11746,30-39,Female,Southeast Asian,True
+11747,20-29,Female,Latino_Hispanic,False
+11748,40-49,Male,Middle Eastern,False
+11749,20-29,Female,East Asian,True
+11750,40-49,Male,Indian,True
+11751,10-19,Female,Black,False
+11752,20-29,Male,Middle Eastern,True
+11753,3-9,Male,Indian,True
+11754,30-39,Male,Middle Eastern,False
+11755,60-69,Female,Indian,True
+11756,3-9,Male,Indian,False
+11757,30-39,Female,Black,False
+11758,20-29,Male,East Asian,True
+11759,30-39,Female,East Asian,True
+11760,50-59,Male,White,False
+11761,40-49,Male,Middle Eastern,False
+11762,3-9,Female,Latino_Hispanic,False
+11763,10-19,Female,Latino_Hispanic,True
+11764,40-49,Female,Latino_Hispanic,False
+11765,3-9,Male,Middle Eastern,True
+11766,20-29,Male,White,True
+11767,20-29,Male,Latino_Hispanic,False
+11768,20-29,Male,Black,True
+11769,40-49,Male,Middle Eastern,False
+11770,3-9,Male,White,True
+11771,20-29,Female,Southeast Asian,False
+11772,50-59,Male,Indian,False
+11773,3-9,Male,Black,False
+11774,10-19,Male,Middle Eastern,True
+11775,20-29,Female,East Asian,False
+11776,3-9,Female,Middle Eastern,True
+11777,30-39,Male,Black,False
+11778,20-29,Female,Southeast Asian,False
+11779,30-39,Female,Black,False
+11780,20-29,Female,Latino_Hispanic,False
+11781,3-9,Female,Black,True
+11782,50-59,Male,Indian,True
+11783,10-19,Female,Latino_Hispanic,False
+11784,20-29,Male,East Asian,False
+11785,20-29,Female,East Asian,False
+11786,40-49,Female,East Asian,True
+11787,30-39,Female,Indian,True
+11788,40-49,Male,Black,False
+11789,20-29,Female,Indian,True
+11790,3-9,Female,Black,True
+11791,10-19,Male,Latino_Hispanic,False
+11792,3-9,Female,Black,False
+11793,20-29,Female,Middle Eastern,True
+11794,10-19,Female,Black,False
+11795,20-29,Female,Middle Eastern,True
+11796,50-59,Male,Latino_Hispanic,False
+11797,30-39,Male,White,True
+11798,10-19,Male,Southeast Asian,False
+11799,30-39,Male,Latino_Hispanic,False
+11800,40-49,Female,Southeast Asian,True
+11801,20-29,Male,White,False
+11802,10-19,Male,Indian,True
+11803,20-29,Male,East Asian,False
+11804,40-49,Male,Middle Eastern,False
+11805,50-59,Male,Middle Eastern,False
+11806,10-19,Male,Indian,False
+11807,20-29,Female,East Asian,True
+11808,3-9,Female,White,True
+11809,10-19,Female,Indian,False
+11810,more than 70,Female,East Asian,True
+11811,30-39,Male,Black,True
+11812,30-39,Male,Southeast Asian,True
+11813,50-59,Female,Black,True
+11814,20-29,Female,Southeast Asian,False
+11815,40-49,Male,White,True
+11816,50-59,Male,Indian,False
+11817,3-9,Male,White,False
+11818,20-29,Female,Middle Eastern,True
+11819,60-69,Male,White,False
+11820,3-9,Male,Middle Eastern,False
+11821,20-29,Female,Latino_Hispanic,False
+11822,20-29,Female,Southeast Asian,True
+11823,30-39,Female,White,False
+11824,40-49,Male,Middle Eastern,False
+11825,20-29,Female,Middle Eastern,True
+11826,30-39,Female,Latino_Hispanic,False
+11827,0-2,Male,White,False
+11828,20-29,Female,Black,False
+11829,40-49,Male,Middle Eastern,False
+11830,50-59,Male,Middle Eastern,False
+11831,30-39,Male,Southeast Asian,False
+11832,10-19,Male,White,True
+11833,20-29,Female,Latino_Hispanic,False
+11834,20-29,Male,White,False
+11835,10-19,Male,Indian,False
+11836,20-29,Female,White,True
+11837,30-39,Female,Latino_Hispanic,True
+11838,50-59,Male,Latino_Hispanic,False
+11839,more than 70,Female,White,True
+11840,30-39,Male,Middle Eastern,True
+11841,40-49,Female,East Asian,False
+11842,20-29,Male,White,False
+11843,10-19,Male,White,False
+11844,10-19,Male,East Asian,True
+11845,50-59,Male,Indian,False
+11846,3-9,Female,Southeast Asian,True
+11847,10-19,Female,Black,False
+11848,10-19,Female,White,False
+11849,20-29,Male,White,True
+11850,30-39,Female,Middle Eastern,True
+11851,40-49,Male,Indian,False
+11852,10-19,Male,Indian,True
+11853,10-19,Male,Southeast Asian,True
+11854,20-29,Female,Latino_Hispanic,False
+11855,40-49,Male,Latino_Hispanic,True
+11856,30-39,Female,Black,False
+11857,3-9,Male,Southeast Asian,False
+11858,20-29,Male,White,True
+11859,20-29,Male,Black,True
+11860,20-29,Male,Latino_Hispanic,True
+11861,30-39,Female,White,False
+11862,30-39,Male,Indian,True
+11863,30-39,Female,Southeast Asian,False
+11864,20-29,Female,Indian,True
+11865,20-29,Female,Black,False
+11866,40-49,Female,Latino_Hispanic,False
+11867,20-29,Female,Southeast Asian,False
+11868,10-19,Female,East Asian,False
+11869,0-2,Female,Black,True
+11870,10-19,Female,East Asian,False
+11871,50-59,Female,Indian,False
+11872,30-39,Male,East Asian,True
+11873,40-49,Male,Latino_Hispanic,True
+11874,3-9,Female,Southeast Asian,False
+11875,30-39,Female,White,False
+11876,40-49,Female,Black,True
+11877,10-19,Female,Indian,False
+11878,30-39,Male,White,True
+11879,30-39,Female,Indian,False
+11880,40-49,Female,Latino_Hispanic,False
+11881,20-29,Male,Middle Eastern,True
+11882,3-9,Female,East Asian,True
+11883,20-29,Male,East Asian,True
+11884,20-29,Male,East Asian,True
+11885,30-39,Male,Middle Eastern,True
+11886,40-49,Male,Southeast Asian,False
+11887,10-19,Male,White,True
+11888,more than 70,Male,Middle Eastern,False
+11889,30-39,Male,Indian,False
+11890,40-49,Female,White,False
+11891,40-49,Female,Indian,False
+11892,30-39,Male,East Asian,False
+11893,3-9,Female,Latino_Hispanic,False
+11894,3-9,Male,Black,False
+11895,20-29,Male,Middle Eastern,True
+11896,20-29,Female,Southeast Asian,True
+11897,50-59,Male,White,False
+11898,30-39,Male,Indian,False
+11899,50-59,Male,White,False
+11900,30-39,Male,Latino_Hispanic,False
+11901,3-9,Male,Black,False
+11902,40-49,Female,Southeast Asian,True
+11903,10-19,Female,Latino_Hispanic,False
+11904,50-59,Female,Latino_Hispanic,False
+11905,20-29,Male,Middle Eastern,True
+11906,50-59,Male,White,False
+11907,50-59,Male,White,False
+11908,20-29,Female,Black,True
+11909,3-9,Female,Indian,True
+11910,30-39,Male,Indian,False
+11911,20-29,Male,White,True
+11912,20-29,Male,Middle Eastern,True
+11913,20-29,Male,Southeast Asian,True
+11914,50-59,Male,White,True
+11915,50-59,Male,Indian,False
+11916,10-19,Male,Indian,False
+11917,3-9,Male,Indian,True
+11918,20-29,Female,East Asian,True
+11919,40-49,Male,Indian,False
+11920,10-19,Male,Black,False
+11921,30-39,Male,Latino_Hispanic,False
+11922,20-29,Male,White,True
+11923,30-39,Female,White,False
+11924,20-29,Female,East Asian,False
+11925,40-49,Female,Indian,True
+11926,20-29,Female,White,True
+11927,10-19,Female,Latino_Hispanic,False
+11928,60-69,Male,Middle Eastern,False
+11929,40-49,Male,Black,False
+11930,30-39,Male,Indian,False
+11931,40-49,Female,East Asian,True
+11932,40-49,Female,East Asian,True
+11933,20-29,Male,Latino_Hispanic,False
+11934,60-69,Male,Indian,True
+11935,3-9,Female,Southeast Asian,True
+11936,20-29,Female,Southeast Asian,False
+11937,20-29,Male,White,True
+11938,40-49,Female,White,False
+11939,30-39,Female,Latino_Hispanic,False
+11940,20-29,Male,East Asian,True
+11941,50-59,Male,White,False
+11942,30-39,Female,Southeast Asian,False
+11943,10-19,Male,Black,False
+11944,40-49,Male,Latino_Hispanic,False
+11945,20-29,Female,White,False
+11946,20-29,Female,Southeast Asian,False
+11947,20-29,Female,Middle Eastern,True
+11948,10-19,Female,Latino_Hispanic,True
+11949,30-39,Male,Middle Eastern,False
+11950,3-9,Female,Black,False
+11951,20-29,Female,East Asian,False
+11952,20-29,Female,Black,True
+11953,20-29,Male,Middle Eastern,True
+11954,20-29,Female,White,True
+11955,30-39,Female,East Asian,False
+11956,20-29,Female,Indian,True
+11957,30-39,Male,White,True
+11958,50-59,Male,East Asian,True
+11959,3-9,Male,Indian,False
+11960,40-49,Male,Southeast Asian,False
+11961,50-59,Male,Middle Eastern,False
+11962,50-59,Male,White,False
+11963,10-19,Female,Latino_Hispanic,True
+11964,30-39,Female,East Asian,True
+11965,10-19,Female,White,False
+11966,40-49,Female,White,False
+11967,3-9,Male,Middle Eastern,False
+11968,more than 70,Female,White,False
+11969,20-29,Male,Latino_Hispanic,True
+11970,20-29,Female,Indian,False
+11971,3-9,Female,Southeast Asian,True
+11972,3-9,Male,Indian,False
+11973,20-29,Female,Black,False
+11974,60-69,Female,Black,False
+11975,20-29,Male,Southeast Asian,True
+11976,20-29,Female,Black,False
+11977,40-49,Female,East Asian,True
+11978,3-9,Female,East Asian,True
+11979,3-9,Male,Southeast Asian,False
+11980,30-39,Female,East Asian,False
+11981,20-29,Male,Southeast Asian,False
+11982,20-29,Female,East Asian,False
+11983,20-29,Female,East Asian,False
+11984,20-29,Female,Latino_Hispanic,False
+11985,40-49,Male,White,True
+11986,20-29,Female,White,False
+11987,20-29,Female,Black,False
+11988,20-29,Male,White,False
+11989,30-39,Male,Black,False
+11990,30-39,Male,Black,False
+11991,30-39,Female,Southeast Asian,True
+11992,30-39,Male,Middle Eastern,False
+11993,30-39,Female,Latino_Hispanic,False
+11994,10-19,Male,Middle Eastern,True
+11995,50-59,Male,White,False
+11996,3-9,Female,Southeast Asian,False
+11997,20-29,Male,Indian,True
+11998,30-39,Male,Middle Eastern,False
+11999,30-39,Male,Southeast Asian,True
+12000,20-29,Female,East Asian,True
+12001,10-19,Female,Southeast Asian,True
+12002,30-39,Male,Middle Eastern,True
+12003,30-39,Female,Indian,False
+12004,20-29,Female,Latino_Hispanic,False
+12005,10-19,Female,East Asian,False
+12006,30-39,Female,Black,False
+12007,30-39,Female,East Asian,True
+12008,20-29,Male,Southeast Asian,True
+12009,20-29,Female,White,False
+12010,20-29,Female,White,True
+12011,40-49,Female,Black,True
+12012,3-9,Male,Latino_Hispanic,True
+12013,10-19,Female,Latino_Hispanic,True
+12014,30-39,Female,White,False
+12015,20-29,Female,Black,True
+12016,3-9,Male,Indian,False
+12017,30-39,Female,Indian,False
+12018,20-29,Female,Black,False
+12019,20-29,Male,White,False
+12020,30-39,Male,White,False
+12021,40-49,Female,Indian,False
+12022,60-69,Male,White,True
+12023,3-9,Male,Black,False
+12024,30-39,Male,Middle Eastern,True
+12025,30-39,Male,Middle Eastern,False
+12026,40-49,Male,East Asian,False
+12027,20-29,Female,East Asian,False
+12028,40-49,Female,Black,False
+12029,3-9,Male,Latino_Hispanic,False
+12030,10-19,Female,White,True
+12031,10-19,Female,Middle Eastern,True
+12032,30-39,Female,Black,False
+12033,30-39,Male,White,False
+12034,10-19,Female,Indian,True
+12035,20-29,Male,White,True
+12036,20-29,Female,East Asian,False
+12037,20-29,Male,White,True
+12038,30-39,Male,White,False
+12039,40-49,Male,White,False
+12040,30-39,Female,White,True
+12041,20-29,Female,White,False
+12042,50-59,Male,Latino_Hispanic,True
+12043,50-59,Female,Indian,False
+12044,30-39,Male,Latino_Hispanic,True
+12045,more than 70,Female,Black,False
+12046,30-39,Male,Black,False
+12047,20-29,Male,Middle Eastern,True
+12048,30-39,Female,Black,False
+12049,30-39,Female,Indian,True
+12050,more than 70,Male,Southeast Asian,True
+12051,40-49,Female,Latino_Hispanic,False
+12052,60-69,Female,Latino_Hispanic,True
+12053,30-39,Male,White,False
+12054,20-29,Female,White,True
+12055,20-29,Female,Black,False
+12056,30-39,Male,Latino_Hispanic,True
+12057,30-39,Female,Black,False
+12058,3-9,Male,Indian,False
+12059,30-39,Male,White,False
+12060,30-39,Male,Southeast Asian,True
+12061,20-29,Female,Middle Eastern,True
+12062,0-2,Female,White,False
+12063,30-39,Male,White,False
+12064,3-9,Female,Latino_Hispanic,False
+12065,3-9,Male,East Asian,False
+12066,more than 70,Male,Black,True
+12067,20-29,Male,Indian,False
+12068,40-49,Female,East Asian,True
+12069,3-9,Female,Indian,True
+12070,20-29,Female,East Asian,True
+12071,10-19,Female,White,True
+12072,40-49,Male,Middle Eastern,False
+12073,30-39,Male,East Asian,False
+12074,60-69,Male,White,False
+12075,20-29,Female,Black,True
+12076,40-49,Female,Southeast Asian,True
+12077,20-29,Female,Middle Eastern,True
+12078,20-29,Female,Southeast Asian,False
+12079,30-39,Female,East Asian,True
+12080,40-49,Female,Indian,False
+12081,40-49,Male,Indian,False
+12082,20-29,Female,White,True
+12083,30-39,Male,Black,True
+12084,30-39,Female,East Asian,True
+12085,30-39,Female,Latino_Hispanic,False
+12086,40-49,Male,Black,False
+12087,20-29,Female,Southeast Asian,False
+12088,20-29,Male,Latino_Hispanic,False
+12089,3-9,Male,Black,False
+12090,50-59,Male,Latino_Hispanic,False
+12091,20-29,Female,Latino_Hispanic,False
+12092,20-29,Female,East Asian,True
+12093,20-29,Male,East Asian,False
+12094,30-39,Female,White,False
+12095,10-19,Female,Southeast Asian,False
+12096,30-39,Female,Latino_Hispanic,True
+12097,30-39,Female,Black,True
+12098,40-49,Male,Middle Eastern,True
+12099,20-29,Female,White,False
+12100,30-39,Male,White,False
+12101,20-29,Female,Indian,True
+12102,30-39,Female,White,False
+12103,3-9,Female,Black,False
+12104,20-29,Female,East Asian,False
+12105,20-29,Male,East Asian,False
+12106,20-29,Female,White,False
+12107,3-9,Female,Indian,True
+12108,3-9,Male,Black,False
+12109,20-29,Male,Indian,True
+12110,more than 70,Male,Middle Eastern,False
+12111,30-39,Male,East Asian,True
+12112,50-59,Male,White,False
+12113,20-29,Female,Latino_Hispanic,False
+12114,20-29,Male,Southeast Asian,True
+12115,40-49,Male,Southeast Asian,False
+12116,50-59,Male,Middle Eastern,False
+12117,20-29,Male,Middle Eastern,True
+12118,30-39,Female,Indian,True
+12119,20-29,Female,Latino_Hispanic,True
+12120,3-9,Female,Black,False
+12121,more than 70,Male,Black,True
+12122,40-49,Male,Black,False
+12123,20-29,Female,East Asian,False
+12124,30-39,Male,Middle Eastern,True
+12125,50-59,Female,Black,False
+12126,40-49,Male,Black,True
+12127,30-39,Male,Middle Eastern,False
+12128,30-39,Male,Indian,True
+12129,0-2,Female,Indian,False
+12130,30-39,Male,East Asian,True
+12131,30-39,Female,Latino_Hispanic,False
+12132,0-2,Female,East Asian,False
+12133,40-49,Male,East Asian,True
+12134,20-29,Female,Latino_Hispanic,True
+12135,40-49,Male,Indian,False
+12136,60-69,Male,East Asian,True
+12137,10-19,Male,Indian,True
+12138,3-9,Female,Latino_Hispanic,False
+12139,30-39,Male,Middle Eastern,False
+12140,20-29,Female,Black,False
+12141,40-49,Male,Latino_Hispanic,True
+12142,40-49,Male,Middle Eastern,True
+12143,20-29,Female,Black,False
+12144,50-59,Male,East Asian,True
+12145,20-29,Male,White,True
+12146,0-2,Male,Black,False
+12147,20-29,Female,East Asian,False
+12148,30-39,Male,Indian,True
+12149,30-39,Female,Indian,True
+12150,3-9,Male,Middle Eastern,True
+12151,50-59,Female,Black,True
+12152,30-39,Female,Black,False
+12153,60-69,Male,Middle Eastern,False
+12154,30-39,Female,Latino_Hispanic,True
+12155,20-29,Female,Indian,True
+12156,3-9,Male,Black,True
+12157,20-29,Male,Southeast Asian,True
+12158,40-49,Female,Indian,True
+12159,30-39,Male,Black,False
+12160,10-19,Female,Indian,False
+12161,0-2,Female,Latino_Hispanic,False
+12162,50-59,Male,Middle Eastern,False
+12163,30-39,Male,Middle Eastern,False
+12164,20-29,Female,Black,False
+12165,20-29,Male,Latino_Hispanic,True
+12166,20-29,Female,Black,False
+12167,50-59,Female,Southeast Asian,True
+12168,10-19,Male,Indian,True
+12169,3-9,Male,Indian,True
+12170,10-19,Female,Indian,False
+12171,40-49,Male,Middle Eastern,False
+12172,20-29,Male,Latino_Hispanic,False
+12173,10-19,Female,White,False
+12174,40-49,Male,White,False
+12175,20-29,Male,Southeast Asian,False
+12176,10-19,Male,Black,False
+12177,10-19,Male,Black,True
+12178,30-39,Female,White,False
+12179,30-39,Female,Indian,True
+12180,20-29,Female,Middle Eastern,True
+12181,20-29,Female,Southeast Asian,False
+12182,30-39,Male,White,False
+12183,40-49,Female,Latino_Hispanic,False
+12184,20-29,Female,White,True
+12185,10-19,Female,Black,True
+12186,40-49,Male,White,True
+12187,3-9,Female,Black,False
+12188,20-29,Female,East Asian,True
+12189,10-19,Female,Indian,True
+12190,40-49,Female,White,True
+12191,20-29,Male,Indian,True
+12192,40-49,Male,East Asian,False
+12193,3-9,Female,Latino_Hispanic,False
+12194,20-29,Female,White,True
+12195,20-29,Female,East Asian,True
+12196,30-39,Male,White,True
+12197,40-49,Female,Indian,True
+12198,20-29,Male,Indian,True
+12199,20-29,Female,Southeast Asian,False
+12200,30-39,Male,Indian,True
+12201,20-29,Female,White,True
+12202,20-29,Male,Middle Eastern,True
+12203,30-39,Female,Southeast Asian,True
+12204,10-19,Male,Southeast Asian,False
+12205,20-29,Male,Indian,False
+12206,40-49,Male,Black,False
+12207,50-59,Male,Middle Eastern,False
+12208,30-39,Male,Black,False
+12209,more than 70,Female,White,False
+12210,20-29,Female,Indian,False
+12211,40-49,Male,Black,False
+12212,20-29,Female,East Asian,False
+12213,10-19,Male,Latino_Hispanic,False
+12214,20-29,Female,East Asian,True
+12215,30-39,Female,Southeast Asian,False
+12216,10-19,Male,Southeast Asian,True
+12217,20-29,Male,East Asian,False
+12218,20-29,Female,Black,False
+12219,30-39,Female,East Asian,True
+12220,20-29,Male,Black,True
+12221,20-29,Female,Middle Eastern,True
+12222,10-19,Male,White,True
+12223,10-19,Male,Latino_Hispanic,False
+12224,10-19,Male,White,True
+12225,30-39,Male,White,False
+12226,20-29,Female,East Asian,False
+12227,20-29,Female,Black,True
+12228,20-29,Male,Indian,True
+12229,20-29,Female,East Asian,False
+12230,40-49,Female,East Asian,True
+12231,50-59,Female,Indian,False
+12232,60-69,Female,Indian,False
+12233,10-19,Male,White,True
+12234,20-29,Female,White,False
+12235,40-49,Female,East Asian,True
+12236,30-39,Male,Indian,False
+12237,0-2,Female,White,False
+12238,30-39,Male,Black,False
+12239,20-29,Female,Latino_Hispanic,False
+12240,40-49,Male,Middle Eastern,False
+12241,40-49,Male,Latino_Hispanic,True
+12242,20-29,Male,East Asian,True
+12243,30-39,Male,Black,False
+12244,30-39,Female,Southeast Asian,True
+12245,20-29,Female,White,True
+12246,20-29,Female,Southeast Asian,True
+12247,0-2,Female,White,False
+12248,3-9,Male,Middle Eastern,True
+12249,3-9,Female,Southeast Asian,True
+12250,20-29,Male,Black,True
+12251,10-19,Female,Latino_Hispanic,False
+12252,20-29,Female,Middle Eastern,True
+12253,40-49,Male,Southeast Asian,False
+12254,30-39,Male,Latino_Hispanic,True
+12255,30-39,Female,Southeast Asian,False
+12256,30-39,Male,Black,True
+12257,20-29,Female,Black,True
+12258,40-49,Male,Southeast Asian,False
+12259,20-29,Female,White,True
+12260,10-19,Male,Black,False
+12261,10-19,Male,Latino_Hispanic,True
+12262,20-29,Male,White,False
+12263,3-9,Male,Latino_Hispanic,False
+12264,20-29,Male,Latino_Hispanic,False
+12265,50-59,Female,Southeast Asian,False
+12266,3-9,Female,Indian,False
+12267,30-39,Male,Latino_Hispanic,True
+12268,30-39,Male,Black,False
+12269,40-49,Male,Black,False
+12270,20-29,Male,White,False
+12271,20-29,Male,White,False
+12272,more than 70,Female,Southeast Asian,True
+12273,10-19,Female,East Asian,False
+12274,50-59,Male,White,False
+12275,40-49,Female,White,False
+12276,20-29,Male,Middle Eastern,True
+12277,30-39,Male,White,False
+12278,3-9,Male,Latino_Hispanic,False
+12279,30-39,Male,Latino_Hispanic,False
+12280,30-39,Female,Latino_Hispanic,False
+12281,40-49,Female,White,False
+12282,3-9,Male,Southeast Asian,True
+12283,20-29,Female,East Asian,False
+12284,40-49,Male,White,False
+12285,30-39,Female,White,False
+12286,20-29,Male,East Asian,True
+12287,10-19,Female,Latino_Hispanic,False
+12288,0-2,Male,White,False
+12289,50-59,Male,Middle Eastern,False
+12290,20-29,Male,Southeast Asian,True
+12291,20-29,Female,Black,True
+12292,50-59,Female,Indian,False
+12293,40-49,Female,Southeast Asian,True
+12294,30-39,Male,East Asian,False
+12295,20-29,Male,White,False
+12296,20-29,Male,East Asian,True
+12297,20-29,Female,White,False
+12298,20-29,Male,Indian,True
+12299,20-29,Male,Southeast Asian,False
+12300,50-59,Male,Latino_Hispanic,False
+12301,30-39,Male,White,False
+12302,20-29,Male,Southeast Asian,True
+12303,30-39,Male,Indian,False
+12304,10-19,Female,Indian,False
+12305,40-49,Female,Latino_Hispanic,False
+12306,3-9,Male,Black,True
+12307,40-49,Male,Indian,False
+12308,3-9,Male,Latino_Hispanic,True
+12309,40-49,Male,Latino_Hispanic,False
+12310,20-29,Male,Black,False
+12311,20-29,Female,Latino_Hispanic,True
+12312,20-29,Male,White,True
+12313,20-29,Male,Middle Eastern,True
+12314,20-29,Female,East Asian,True
+12315,30-39,Male,Latino_Hispanic,True
+12316,20-29,Male,Black,True
+12317,50-59,Male,White,False
+12318,60-69,Female,Latino_Hispanic,False
+12319,30-39,Female,Black,False
+12320,20-29,Female,Southeast Asian,True
+12321,30-39,Male,Black,True
+12322,20-29,Female,Latino_Hispanic,True
+12323,30-39,Male,Middle Eastern,True
+12324,20-29,Male,Southeast Asian,False
+12325,10-19,Male,Middle Eastern,True
+12326,10-19,Male,White,True
+12327,20-29,Male,Middle Eastern,True
+12328,40-49,Male,White,False
+12329,20-29,Female,White,True
+12330,0-2,Female,Black,True
+12331,3-9,Female,Indian,True
+12332,20-29,Male,Indian,True
+12333,30-39,Female,White,False
+12334,50-59,Male,Middle Eastern,False
+12335,20-29,Male,East Asian,True
+12336,60-69,Male,White,False
+12337,30-39,Female,Indian,True
+12338,0-2,Male,Middle Eastern,False
+12339,20-29,Female,Southeast Asian,False
+12340,50-59,Male,White,False
+12341,3-9,Female,Middle Eastern,True
+12342,20-29,Female,Southeast Asian,True
+12343,40-49,Female,Latino_Hispanic,False
+12344,3-9,Female,East Asian,False
+12345,20-29,Male,Southeast Asian,True
+12346,3-9,Male,Indian,False
+12347,30-39,Female,White,False
+12348,50-59,Male,White,False
+12349,3-9,Female,Southeast Asian,True
+12350,20-29,Female,White,False
+12351,3-9,Female,Latino_Hispanic,True
+12352,10-19,Female,Southeast Asian,False
+12353,20-29,Female,East Asian,False
+12354,40-49,Male,Middle Eastern,False
+12355,20-29,Male,Indian,True
+12356,30-39,Female,Black,True
+12357,40-49,Female,Southeast Asian,True
+12358,10-19,Female,Black,True
+12359,20-29,Female,Southeast Asian,False
+12360,20-29,Female,East Asian,True
+12361,50-59,Male,Southeast Asian,True
+12362,20-29,Male,Latino_Hispanic,True
+12363,20-29,Male,Latino_Hispanic,True
+12364,20-29,Male,East Asian,True
+12365,30-39,Male,Latino_Hispanic,False
+12366,30-39,Female,Latino_Hispanic,True
+12367,60-69,Male,Indian,True
+12368,30-39,Male,Latino_Hispanic,False
+12369,30-39,Male,Indian,True
+12370,50-59,Male,White,False
+12371,20-29,Female,Middle Eastern,True
+12372,50-59,Male,White,False
+12373,10-19,Female,White,True
+12374,20-29,Female,White,False
+12375,60-69,Male,White,False
+12376,20-29,Female,Latino_Hispanic,False
+12377,3-9,Male,East Asian,False
+12378,50-59,Male,White,False
+12379,30-39,Male,Latino_Hispanic,False
+12380,20-29,Female,East Asian,True
+12381,3-9,Female,Latino_Hispanic,True
+12382,20-29,Female,White,False
+12383,3-9,Female,East Asian,False
+12384,20-29,Male,White,False
+12385,50-59,Male,White,False
+12386,40-49,Male,Black,False
+12387,30-39,Female,Latino_Hispanic,False
+12388,20-29,Male,Latino_Hispanic,True
+12389,50-59,Male,White,False
+12390,40-49,Male,Southeast Asian,True
+12391,20-29,Female,Southeast Asian,True
+12392,30-39,Male,Middle Eastern,False
+12393,50-59,Female,East Asian,True
+12394,50-59,Female,Southeast Asian,True
+12395,20-29,Male,East Asian,True
+12396,3-9,Female,White,True
+12397,60-69,Male,Middle Eastern,False
+12398,10-19,Female,East Asian,True
+12399,20-29,Male,Indian,False
+12400,20-29,Male,White,False
+12401,60-69,Male,Indian,False
+12402,30-39,Male,White,False
+12403,20-29,Male,White,True
+12404,40-49,Male,Indian,False
+12405,30-39,Female,East Asian,True
+12406,20-29,Male,White,True
+12407,30-39,Male,Latino_Hispanic,False
+12408,10-19,Female,White,True
+12409,10-19,Female,Southeast Asian,True
+12410,10-19,Male,Middle Eastern,True
+12411,30-39,Female,East Asian,False
+12412,20-29,Male,Indian,True
+12413,3-9,Female,Southeast Asian,False
+12414,20-29,Female,Latino_Hispanic,True
+12415,50-59,Male,Indian,False
+12416,30-39,Male,Indian,False
+12417,30-39,Male,Black,True
+12418,10-19,Male,White,False
+12419,20-29,Male,Latino_Hispanic,True
+12420,30-39,Male,White,False
+12421,20-29,Female,White,False
+12422,30-39,Male,Southeast Asian,True
+12423,50-59,Male,Latino_Hispanic,False
+12424,30-39,Female,Black,False
+12425,40-49,Male,White,True
+12426,10-19,Male,Black,True
+12427,3-9,Male,Latino_Hispanic,True
+12428,3-9,Male,Indian,False
+12429,20-29,Female,White,False
+12430,20-29,Male,Middle Eastern,True
+12431,20-29,Female,White,False
+12432,20-29,Female,Black,True
+12433,30-39,Male,White,True
+12434,3-9,Male,Latino_Hispanic,False
+12435,50-59,Male,White,False
+12436,20-29,Female,Middle Eastern,True
+12437,10-19,Female,East Asian,True
+12438,30-39,Female,Latino_Hispanic,True
+12439,20-29,Male,Middle Eastern,True
+12440,20-29,Female,Indian,False
+12441,60-69,Male,White,False
+12442,60-69,Female,White,False
+12443,20-29,Female,East Asian,False
+12444,30-39,Male,Black,True
+12445,40-49,Male,White,True
+12446,3-9,Male,Indian,False
+12447,20-29,Male,White,False
+12448,40-49,Male,Indian,True
+12449,0-2,Female,East Asian,True
+12450,3-9,Male,East Asian,False
+12451,30-39,Male,White,False
+12452,50-59,Male,Latino_Hispanic,False
+12453,3-9,Male,White,False
+12454,40-49,Female,Southeast Asian,True
+12455,20-29,Male,Southeast Asian,False
+12456,3-9,Female,White,False
+12457,10-19,Male,Black,False
+12458,10-19,Female,Indian,False
+12459,20-29,Male,East Asian,True
+12460,more than 70,Female,Southeast Asian,False
+12461,10-19,Female,White,True
+12462,40-49,Male,Southeast Asian,True
+12463,20-29,Male,White,False
+12464,30-39,Female,Black,True
+12465,30-39,Female,White,True
+12466,30-39,Male,Middle Eastern,False
+12467,20-29,Female,White,False
+12468,20-29,Male,Latino_Hispanic,True
+12469,20-29,Male,Black,True
+12470,30-39,Female,White,False
+12471,20-29,Female,Middle Eastern,True
+12472,40-49,Male,White,False
+12473,50-59,Female,Black,False
+12474,20-29,Male,East Asian,False
+12475,10-19,Male,Latino_Hispanic,False
+12476,30-39,Female,Southeast Asian,False
+12477,40-49,Male,Indian,True
+12478,20-29,Female,Southeast Asian,False
+12479,20-29,Male,Middle Eastern,True
+12480,0-2,Female,East Asian,True
+12481,20-29,Female,Latino_Hispanic,False
+12482,10-19,Male,Southeast Asian,False
+12483,10-19,Male,White,True
+12484,60-69,Male,White,False
+12485,10-19,Female,Black,False
+12486,40-49,Male,Latino_Hispanic,True
+12487,40-49,Female,Latino_Hispanic,True
+12488,40-49,Female,Latino_Hispanic,False
+12489,10-19,Female,Indian,False
+12490,20-29,Female,White,True
+12491,20-29,Female,East Asian,True
+12492,30-39,Female,Black,True
+12493,3-9,Male,Indian,True
+12494,40-49,Male,Indian,True
+12495,20-29,Male,Indian,True
+12496,20-29,Female,White,False
+12497,3-9,Female,Latino_Hispanic,True
+12498,3-9,Female,Black,True
+12499,20-29,Female,Latino_Hispanic,False
+12500,30-39,Female,White,False
+12501,20-29,Female,Middle Eastern,True
+12502,10-19,Male,East Asian,True
+12503,30-39,Male,Indian,False
+12504,20-29,Female,White,False
+12505,60-69,Male,East Asian,True
+12506,10-19,Male,Black,True
+12507,10-19,Male,Black,True
+12508,20-29,Female,Southeast Asian,True
+12509,30-39,Male,White,False
+12510,40-49,Male,Black,True
+12511,50-59,Female,White,False
+12512,10-19,Female,Middle Eastern,True
+12513,20-29,Male,Middle Eastern,True
+12514,30-39,Female,Indian,True
+12515,10-19,Female,Southeast Asian,False
+12516,40-49,Male,Middle Eastern,False
+12517,30-39,Female,East Asian,False
+12518,20-29,Female,East Asian,False
+12519,3-9,Male,Black,True
+12520,3-9,Male,Black,False
+12521,20-29,Male,White,True
+12522,20-29,Female,Indian,True
+12523,20-29,Female,East Asian,False
+12524,60-69,Male,Middle Eastern,False
+12525,20-29,Male,Latino_Hispanic,True
+12526,60-69,Male,White,False
+12527,40-49,Male,Latino_Hispanic,True
+12528,10-19,Female,East Asian,False
+12529,3-9,Male,East Asian,False
+12530,10-19,Female,Black,True
+12531,3-9,Male,Black,False
+12532,3-9,Male,Latino_Hispanic,False
+12533,20-29,Female,Middle Eastern,True
+12534,20-29,Female,East Asian,True
+12535,50-59,Female,Middle Eastern,True
+12536,50-59,Female,Southeast Asian,True
+12537,20-29,Female,Indian,True
+12538,40-49,Male,Middle Eastern,False
+12539,20-29,Female,Middle Eastern,True
+12540,0-2,Male,Middle Eastern,True
+12541,30-39,Female,Latino_Hispanic,True
+12542,20-29,Male,Southeast Asian,True
+12543,10-19,Male,Indian,False
+12544,20-29,Male,Southeast Asian,True
+12545,10-19,Female,East Asian,True
+12546,20-29,Female,White,False
+12547,30-39,Male,Latino_Hispanic,False
+12548,30-39,Female,Indian,True
+12549,60-69,Male,White,False
+12550,40-49,Male,Black,True
+12551,30-39,Female,Indian,True
+12552,20-29,Female,Indian,True
+12553,30-39,Female,White,True
+12554,50-59,Female,White,False
+12555,10-19,Male,White,True
+12556,30-39,Female,White,True
+12557,40-49,Male,Middle Eastern,False
+12558,30-39,Male,Black,True
+12559,30-39,Female,Southeast Asian,True
+12560,40-49,Female,East Asian,True
+12561,30-39,Male,White,False
+12562,10-19,Female,East Asian,True
+12563,30-39,Female,White,False
+12564,40-49,Female,Black,True
+12565,30-39,Male,Indian,False
+12566,50-59,Male,White,True
+12567,20-29,Male,Black,True
+12568,60-69,Male,White,False
+12569,20-29,Female,Southeast Asian,False
+12570,20-29,Female,Middle Eastern,True
+12571,40-49,Male,Latino_Hispanic,True
+12572,3-9,Female,Latino_Hispanic,False
+12573,0-2,Male,White,True
+12574,40-49,Female,Black,True
+12575,10-19,Male,Latino_Hispanic,False
+12576,10-19,Female,Black,False
+12577,30-39,Male,White,False
+12578,10-19,Male,Southeast Asian,False
+12579,60-69,Female,White,False
+12580,20-29,Female,Indian,True
+12581,20-29,Female,White,True
+12582,30-39,Male,Middle Eastern,False
+12583,40-49,Female,Black,False
+12584,40-49,Male,Southeast Asian,False
+12585,30-39,Male,Middle Eastern,False
+12586,3-9,Female,Middle Eastern,True
+12587,10-19,Female,Indian,True
+12588,10-19,Female,Black,True
+12589,30-39,Female,Middle Eastern,True
+12590,30-39,Female,Black,False
+12591,30-39,Female,East Asian,False
+12592,40-49,Female,Middle Eastern,True
+12593,30-39,Male,White,True
+12594,20-29,Male,Southeast Asian,False
+12595,20-29,Male,Indian,True
+12596,60-69,Male,Middle Eastern,False
+12597,20-29,Male,Middle Eastern,True
+12598,30-39,Male,Middle Eastern,False
+12599,20-29,Female,White,False
+12600,60-69,Male,Black,True
+12601,10-19,Female,Middle Eastern,True
+12602,60-69,Female,Indian,False
+12603,3-9,Female,White,False
+12604,20-29,Male,White,False
+12605,30-39,Male,East Asian,True
+12606,30-39,Female,East Asian,True
+12607,10-19,Female,Indian,False
+12608,3-9,Female,Southeast Asian,True
+12609,30-39,Male,Latino_Hispanic,True
+12610,40-49,Male,Latino_Hispanic,False
+12611,3-9,Male,Southeast Asian,False
+12612,10-19,Female,Latino_Hispanic,True
+12613,60-69,Female,Indian,False
+12614,more than 70,Female,White,True
+12615,40-49,Male,Indian,False
+12616,20-29,Female,Black,True
+12617,50-59,Female,Indian,True
+12618,30-39,Male,Latino_Hispanic,False
+12619,3-9,Female,Southeast Asian,False
+12620,20-29,Male,Southeast Asian,False
+12621,30-39,Female,White,False
+12622,3-9,Male,Black,False
+12623,20-29,Female,Southeast Asian,False
+12624,3-9,Female,Southeast Asian,False
+12625,3-9,Male,White,False
+12626,3-9,Female,Southeast Asian,False
+12627,40-49,Male,Latino_Hispanic,False
+12628,20-29,Female,East Asian,False
+12629,40-49,Male,East Asian,False
+12630,40-49,Male,White,False
+12631,20-29,Female,White,False
+12632,3-9,Male,Middle Eastern,False
+12633,more than 70,Female,Southeast Asian,False
+12634,30-39,Female,Southeast Asian,True
+12635,50-59,Male,Black,True
+12636,50-59,Female,Indian,True
+12637,3-9,Male,Latino_Hispanic,False
+12638,20-29,Female,Middle Eastern,True
+12639,0-2,Male,Southeast Asian,True
+12640,20-29,Male,Middle Eastern,True
+12641,30-39,Male,Middle Eastern,False
+12642,20-29,Male,East Asian,False
+12643,20-29,Male,Latino_Hispanic,True
+12644,30-39,Female,Latino_Hispanic,False
+12645,40-49,Male,Middle Eastern,False
+12646,30-39,Female,Middle Eastern,True
+12647,10-19,Male,Latino_Hispanic,False
+12648,50-59,Female,Southeast Asian,False
+12649,20-29,Female,White,True
+12650,3-9,Female,East Asian,False
+12651,3-9,Male,Black,False
+12652,20-29,Female,East Asian,False
+12653,20-29,Female,Middle Eastern,True
+12654,30-39,Male,Middle Eastern,False
+12655,30-39,Male,Black,True
+12656,20-29,Female,Southeast Asian,True
+12657,60-69,Female,Latino_Hispanic,False
+12658,20-29,Female,East Asian,False
+12659,60-69,Female,White,True
+12660,20-29,Male,Latino_Hispanic,True
+12661,3-9,Female,Latino_Hispanic,True
+12662,50-59,Male,Latino_Hispanic,False
+12663,3-9,Female,East Asian,True
+12664,10-19,Male,Indian,True
+12665,20-29,Female,Latino_Hispanic,False
+12666,3-9,Male,White,False
+12667,3-9,Female,Southeast Asian,False
+12668,30-39,Female,East Asian,False
+12669,20-29,Male,Latino_Hispanic,True
+12670,20-29,Male,Latino_Hispanic,False
+12671,0-2,Male,Southeast Asian,True
+12672,0-2,Female,Latino_Hispanic,False
+12673,40-49,Male,Black,False
+12674,20-29,Male,Indian,False
+12675,10-19,Female,Indian,True
+12676,0-2,Male,East Asian,False
+12677,20-29,Female,Black,False
+12678,30-39,Male,Black,True
+12679,10-19,Male,Indian,True
+12680,20-29,Male,Black,True
+12681,40-49,Female,Black,True
+12682,50-59,Male,White,False
+12683,3-9,Female,White,False
+12684,10-19,Female,Indian,False
+12685,10-19,Male,East Asian,False
+12686,20-29,Male,Southeast Asian,False
+12687,40-49,Male,White,False
+12688,20-29,Female,Latino_Hispanic,False
+12689,10-19,Male,Black,False
+12690,20-29,Female,White,True
+12691,10-19,Female,Middle Eastern,True
+12692,20-29,Female,Middle Eastern,True
+12693,30-39,Male,Indian,True
+12694,60-69,Male,White,False
+12695,20-29,Female,Latino_Hispanic,False
+12696,3-9,Female,East Asian,False
+12697,20-29,Male,Black,True
+12698,30-39,Male,Southeast Asian,True

@@ -1,0 +1,7 @@
+metric,correct,total
+Age: FaceLLM overlap GT,7,10
+Age: DeepFace in GT,1,10
+Gender: FaceLLM == GT,10,10
+Gender: DeepFace == GT,9,10
+Race (coarse): FaceLLM == GT,9,10
+Race (coarse): DeepFace == GT,8,10

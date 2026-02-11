@@ -1,0 +1,58 @@
+#10 images
+
+srun -p dev \
+  --job-name=facellm_sanity \
+  --cpus-per-task=8 \
+  --mem=16GB \
+  --gpus=L4:1 \
+  --container-image=docker://nvidia/cuda:12.1.0-runtime-ubuntu22.04 \
+  --container-save=/shared/home/hugo.trebert/container_images/facellm_cuda_pytorch.sqfs \
+  --container-mounts=/shared/home/hugo.trebert/projects/facellm:/workspace \
+  --container-workdir=/workspace \
+  --pty bash
+
+srun -p dev \
+  --job-name=facellm_sanity \
+  --cpus-per-task=8 \
+  --mem=16GB \
+  --gpus=L4:1 \
+  --container-image=/shared/home/hugo.trebert/projects/facellm/facellm_cuda_pytorch.sqfs \
+  --container-mounts=/shared/home/hugo.trebert/projects/facellm:/workspace \
+  --container-workdir=/workspace \
+  --pty bash
+
+
+python3 prompts/inter_facellm.py \
+  --data /shared/workspace/lrv/FairFace/datasets/FairFace/fairface-img-margin025-trainval/train \
+  --prompt_file prompts/facellm_v1.txt \
+  --max_images 10 \
+  --out results/facellm/facellm_sanity.jsonl
+
+
+#200_images
+srun -p dev \
+  --job-name=facellm_debug \
+  --cpus-per-task=8 \
+  --mem=16GB \
+  --gpus=L4:1 \
+  --time=01:20:00 \
+  --container-image=/shared/home/hugo.trebert/container_images/facellm_cuda_pytorch.sqfs \
+  --container-mounts=/shared/home/hugo.trebert/projects/facellm:/workspace \
+  --container-workdir=/workspace \
+  --pty bash
+
+
+#3000_images
+srun -p dev \
+  --job-name=facellm_train \
+  --cpus-per-task=8 \
+  --mem=16GB \
+  --gpus=L4:1 \
+  --time=12:00:00 \
+  --container-image=/shared/home/hugo.trebert/projects/facellm/facellm_cuda_pytorch.sqfs \
+  --container-mounts=/shared/home/hugo.trebert/projects/facellm:/workspace \
+  --container-workdir=/workspace \
+  --pty bash
+
+
+
