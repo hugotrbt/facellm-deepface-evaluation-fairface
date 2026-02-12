@@ -6,9 +6,9 @@ import numpy as np
 
 
 # Load data
-gt = pd.read_csv("train_labels_inferred_only.csv")
-df_deepface = pd.read_csv("deepface_3k.csv")
-df_facellm = pd.read_csv("facellm_3k.csv")
+gt = pd.read_csv("data/fairface_3k/train_labels_inferred_only.csv")
+df_deepface = pd.read_csv("data/fairface_3k/deepface_3k.csv")
+df_facellm = pd.read_csv("data/fairface_3k/facellm_3k.csv")
 
 
 # Rename columns (GT vs Pred)
