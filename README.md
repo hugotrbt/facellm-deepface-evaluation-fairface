@@ -446,17 +446,19 @@ Overall, the comparison highlights that model architecture influences not only a
 
 ## 🗂 Repository Structure
 
+```text
 .
-├── data/ # Processed FairFace subset and splits
-├── results/ # Raw outputs, CSV comparisons, confusion matrices
+├── data/                     # Processed FairFace subset and splits
+├── results/                  # Raw outputs, CSV comparisons, confusion matrices
 ├── scripts/
-│ ├── inference/ # Model inference scripts
-│ ├── preprocessing/ # Output normalization & harmonization
-│ └── evaluation/ # Metric computation & comparison
-├── prompt.md # Structured prompt used for FaceLLM
-├── taxonomy_fairface.md # Taxonomy harmonization documentation
-├── frida/ # Cluster execution commands
-└── errors_facellm.txt # Logged runtime errors (network-related)
+│   ├── inference/            # Model inference scripts
+│   ├── preprocessing/        # Output normalization & harmonization
+│   └── evaluation/           # Metric computation & comparison
+├── prompt.md                 # Structured prompt used for FaceLLM
+├── taxonomy_fairface.md      # Taxonomy harmonization documentation
+├── frida/                    # Cluster execution commands
+└── errors_facellm.txt        # Logged runtime errors (network-related)
+```
 
 ---
 
@@ -496,3 +498,7 @@ See `LICENSE` file.
 ## 👤 Author
 
 Academic research project exploring Vision-Language Model robustness and bias in structured facial attribute prediction.
+
+```
+
+```
