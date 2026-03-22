@@ -1,0 +1,192 @@
+\documentclass[a4paper,11pt,twocolumn]{article}
+
+% ====================
+% PACKAGES
+% ====================
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{caption}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{siunitx}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+
+\captionsetup{
+  labelfont=bf,
+  textfont=normalfont
+}
+
+% ====================
+% CONFIGURATION
+% ====================
+\geometry{margin=2cm}
+\setstretch{1.1}
+\hypersetup{
+    colorlinks = true,
+    linkcolor = blue,
+    citecolor = teal,
+    urlcolor = magenta
+}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Image-Based Biometrics | 2026}
+\rhead{Vision-LLM vs Specialized Models}
+\cfoot{\thepage}
+
+% ====================
+% TITLE PAGE
+% ====================
+\begin{document}
+\thispagestyle{empty}
+
+\begin{center}
+{\Large \textbf{Face Attribute Prediction: Vision-Language Models vs Specialized Deep Learning Systems}}\\[6pt]
+{\large Hugo Trébert}\\[4pt]
+Image-Based Biometrics Course, Research Project\\[4pt]
+University of Ljubljana\\[4pt]
+January 2026
+\end{center}
+
+\vspace{0.3cm}
+\hrule
+\vspace{0.3cm}
+
+\textbf{This paper presents a comparative evaluation between a Vision-Language Model (FaceLLM) and a specialized deep-learning system (DeepFace) on facial attribute prediction tasks. Using a curated subset of the FairFace dataset, we analyze performance on gender, race, and age classification. Beyond standard metrics, we investigate error structures and confidence calibration, highlighting fundamental differences in behavior between generalist multimodal models and task-specific architectures.}
+
+\vspace{0.3cm}
+\hrule
+\vspace{0.3cm}
+
+% ====================
+% MAIN TEXT
+% ====================
+
+\section{Introduction}
+
+Facial attribute prediction is a central task in image-based biometrics, with applications ranging from human-computer interaction to surveillance systems. Traditional approaches rely on specialized deep neural networks trained explicitly for classification tasks.
+
+Recently, Vision-Language Models (VLMs) have demonstrated strong performance across multimodal tasks. However, their reliability on structured and sensitive prediction tasks, such as demographic attribute estimation, remains insufficiently understood.
+
+In this work, we compare a prompt-based Vision-Language Model (FaceLLM) with a dedicated facial analysis system (DeepFace). While DeepFace represents a conventional discriminative pipeline, FaceLLM operates through natural language prompting and generative inference.
+
+Our objective is not only to compare accuracy, but also to analyze structural differences in prediction behavior, error patterns, and confidence calibration.
+
+\section{Methods}
+
+\subsection{Dataset}
+
+Experiments are conducted on a subset of 3,000 images from the FairFace dataset. Ground-truth labels are harmonized into a simplified taxonomy:
+
+\begin{itemize}
+    \item Binary gender
+    \item Coarse race categories
+    \item Binned age groups
+\end{itemize}
+
+Certain categories are merged (e.g., East Asian and Southeast Asian into ``Asian'') to ensure consistency across models.
+
+\subsection{Inference Pipeline}
+
+Both models are evaluated independently:
+
+\begin{itemize}
+    \item DeepFace produces structured probabilistic outputs
+    \item FaceLLM generates JSON predictions conditioned on prompts
+\end{itemize}
+
+Inference is executed on a computing cluster using parallel jobs. Outputs are stored for offline processing.
+
+\subsection{Output Normalization}
+
+Due to heterogeneous output formats, a normalization pipeline is applied:
+
+\begin{itemize}
+    \item JSON extraction and cleaning for FaceLLM
+    \item Label harmonization
+    \item Age bin alignment
+    \item Removal of invalid predictions
+\end{itemize}
+
+This ensures a fair comparison across models.
+
+\subsection{Evaluation Metrics}
+
+Performance is evaluated using:
+
+\begin{itemize}
+    \item Accuracy
+    \item Macro-F1 score (race)
+    \item Confusion matrices
+\end{itemize}
+
+For age prediction, we additionally consider ordinal metrics:
+
+\begin{itemize}
+    \item Mean absolute bin distance
+    \item Tolerance accuracy (±1 and ±2 bins)
+\end{itemize}
+
+Confidence calibration is assessed using Expected Calibration Error (ECE).
+
+\section{Results}
+
+\subsection{Gender Prediction}
+
+FaceLLM significantly outperforms DeepFace in overall accuracy (88.3\% vs 68.5\%). 
+
+DeepFace exhibits a strong bias toward predicting male, resulting in poor female recall. In contrast, FaceLLM achieves near-perfect female detection but slightly underperforms on male samples.
+
+\subsection{Race Classification}
+
+Both models achieve similar macro-F1 scores (≈0.60), indicating comparable global performance.
+
+However, confusion matrices reveal distinct behaviors. DeepFace distributes errors across multiple classes, whereas FaceLLM tends to collapse ambiguous categories toward dominant groups, particularly ``White''. This highlights fundamentally different inductive biases.
+
+\subsection{Age Estimation}
+
+Age prediction remains challenging for both models.
+
+FaceLLM slightly outperforms DeepFace in accuracy and significantly in macro-F1. More importantly, it demonstrates better ordinal consistency, with lower average bin distance and higher tolerance accuracy.
+
+DeepFace shows a strong central bias, collapsing predictions toward middle-age categories.
+
+\subsection{Calibration Analysis}
+
+Confidence calibration varies significantly across tasks.
+
+DeepFace is well-calibrated for race prediction, with confidence closely matching empirical accuracy. FaceLLM, however, exhibits discrete and less reliable confidence estimates.
+
+For gender, FaceLLM demonstrates good calibration, while DeepFace tends to be overconfident.
+
+For age, both models are poorly calibrated, with confidence values largely uninformative.
+
+\section{Discussion}
+
+The results highlight that performance differences between models are not purely quantitative but structural.
+
+DeepFace behaves as a classical discriminative classifier, producing smooth probabilistic outputs and strong calibration in certain tasks. FaceLLM, on the other hand, operates through discrete, declarative predictions with limited confidence granularity.
+
+Interestingly, FaceLLM matches or outperforms DeepFace on several tasks, particularly gender and age. This suggests that large multimodal models can generalize effectively even on structured prediction problems.
+
+However, their confidence estimates are not consistently reliable, emphasizing the importance of calibration analysis when deploying such systems.
+
+\section{Conclusion}
+
+This study provides a detailed comparison between a Vision-Language Model and a specialized deep-learning system for facial attribute prediction.
+
+While overall performance is comparable, the models exhibit fundamentally different behaviors in terms of bias, error structure, and confidence reliability.
+
+These findings suggest that evaluating modern AI systems requires going beyond accuracy, incorporating deeper analyses of prediction structure and uncertainty.
+
+Future work could explore fine-tuning strategies for VLMs, improved prompting techniques, and fairness-aware evaluation protocols.
+
+\bibliographystyle{plain}
+
+\end{document}
